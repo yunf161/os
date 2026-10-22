@@ -1,0 +1,7 @@
+file ../build/kernel.o
+set architecture i386
+set disassembly-flavor intel
+target remote :1234
+b asm_switch_thread
+b c_time_interrupt_handler_v2
+c

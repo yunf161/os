@@ -1,0 +1,22 @@
+# Generated artifacts; keep build/makefile and run/gdbinit tracked.
+*.o
+*.obj
+*.bin
+*.img
+*.elf
+*.a
+*.so
+*.gz
+*.symbol
+*.log
+*.pid
+*.pyc
+__pycache__/
+.vscode/
+.idea/
+.env
+.env.*
+linux-*/
+busybox-*/
+mybusybox/
+.verification/

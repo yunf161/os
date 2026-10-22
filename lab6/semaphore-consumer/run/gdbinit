@@ -1,0 +1,6 @@
+file ../build/kernel.o
+set architecture i386
+set disassembly-flavor intel
+target remote :1234
+b consumer_B
+c

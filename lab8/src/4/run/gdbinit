@@ -1,0 +1,11 @@
+target remote:1234
+file ../build/kernel.o
+set disassembly-flavor intel
+b first_process
+c
+b schedule
+display $cs
+display $ss
+display $esp
+display $eax
+display programManager.running->pid

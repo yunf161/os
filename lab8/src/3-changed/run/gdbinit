@@ -1,0 +1,9 @@
+target remote:1234
+file ../build/kernel.o
+set disassembly-flavor intel
+b setup_kernel
+c
+b 56
+c
+b asm_switch_thread
+c

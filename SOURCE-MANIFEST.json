@@ -1,0 +1,3336 @@
+{
+  "description": "Selected current WSL working-tree sources, including uncommitted lab7/lab8 work; no original Git history",
+  "files": [
+    {
+      "path": "helloworld.c",
+      "bytes": 161,
+      "sha256": "6c61c146da55cab4d18ab4d8e3f69eabfc6dc172d9ca8ac484199a2e301a13e4"
+    },
+    {
+      "path": "lab2src/assignment/end.include",
+      "bytes": 39,
+      "sha256": "59e035cc5e612a95304a9d32bfdfdd808cfc4482d93ac4ee0a74985aa1f856a3"
+    },
+    {
+      "path": "lab2src/assignment/head.include",
+      "bytes": 184,
+      "sha256": "5b9afb3efebdb2ad94adc9d955c14b4718c09b7fc357f023ad4486fdcf032bd8"
+    },
+    {
+      "path": "lab2src/assignment/makefile",
+      "bytes": 322,
+      "sha256": "2146d0097f2f9b2ae180d0bd77736a10d075fa616eb1ba4943f6f079fdc3fa7b"
+    },
+    {
+      "path": "lab2src/assignment/student.asm",
+      "bytes": 1299,
+      "sha256": "6ba3147b731ecbee20e6246e1d994b2772c42c4ffa80eff9992589ed783d3541"
+    },
+    {
+      "path": "lab2src/assignment/test.cpp",
+      "bytes": 1770,
+      "sha256": "6a7deb65e5bc895ce25dba83e0fc69916c2f508f47c3554ac15ed9efba9ebdc9"
+    },
+    {
+      "path": "lab2src/homework14/boot.asm",
+      "bytes": 2514,
+      "sha256": "0d0fccf81baed0b6638e70c05ae64e0ef6a1cc419a3101faa4a5904b7f81d907"
+    },
+    {
+      "path": "lab2src/homework16/Guang_Biao.asm",
+      "bytes": 542,
+      "sha256": "290bd2cf3df136a6e579039b55555cacb2903dfe2e284e945a9f09649d0aec6c"
+    },
+    {
+      "path": "lab2src/homework16/helloworld_24325159.asm",
+      "bytes": 1737,
+      "sha256": "453f0dabf4a1926fadb4d76dfe860ef6e8813906b65b96c0694f9769e5bcec2f"
+    },
+    {
+      "path": "lab2src/homework16/keyboard.asm",
+      "bytes": 138,
+      "sha256": "5521a8d183725cc1b17150ab67ca6689bbaac5524692e7788c157d6bc647c962"
+    },
+    {
+      "path": "lab2src/mbr.asm",
+      "bytes": 647,
+      "sha256": "5e8c7e248a71f96a42c6591b0a578293a6a2e79fb225ef564a2a76a1b9a80012"
+    },
+    {
+      "path": "lab3src/boot.inc",
+      "bytes": 561,
+      "sha256": "a957fa0fa6e22b1b791cc65023d0d0cfeac3184ab7131ef77f92e8673e13f9a8"
+    },
+    {
+      "path": "lab3src/bootloader-rename.asm",
+      "bytes": 3683,
+      "sha256": "3eea1c7a2f2fbf8808ac411b8a0c88475cfcc5a5281f242de1fe3c54e8d0e619"
+    },
+    {
+      "path": "lab3src/bootloader.asm",
+      "bytes": 2532,
+      "sha256": "4377940fada10f44f6c3008a9275a4c5550e52e359d09053cc2aeb24a448fa1e"
+    },
+    {
+      "path": "lab3src/gdb-start.sh",
+      "bytes": 335,
+      "sha256": "4fa2c0e329903698bcf1b56e2a4b83be6ce328c1d7fcabfe3771fb605faf9cd3"
+    },
+    {
+      "path": "lab3src/homework10/bootloader-CHS.asm",
+      "bytes": 345,
+      "sha256": "e13b8c01a71ba87228ba15f6eb2d74ede2b1e56e99fc45c11ff04c6173dcb48a"
+    },
+    {
+      "path": "lab3src/homework10/mbr-CHS.asm",
+      "bytes": 803,
+      "sha256": "cc6383880edcf7b11da7be5caa9ecabf45de6fc2dea9fe930ef285e43dfbb209"
+    },
+    {
+      "path": "lab3src/mbr.asm",
+      "bytes": 1736,
+      "sha256": "bb5126c7a74e89da53534e391ae0269164003fcf31cedfd2edf4a474aca6489f"
+    },
+    {
+      "path": "lab4src/task_1/asm_func.asm",
+      "bytes": 288,
+      "sha256": "9b9f108fec8ce0a32aafd5ebbe1ca610f47fcf4e079b07a4af625207de6bba40"
+    },
+    {
+      "path": "lab4src/task_1/c_func.c",
+      "bytes": 90,
+      "sha256": "53e60428203974b0536f5421f0e906ba1dc49ac94c68d58205c625c3e6ccac83"
+    },
+    {
+      "path": "lab4src/task_1/cpp_func.cpp",
+      "bytes": 194,
+      "sha256": "1125e366e6e42e1713495eb506e3a7a38be280b9b9aa146e732a5c56fb61dc38"
+    },
+    {
+      "path": "lab4src/task_1/main.cpp",
+      "bytes": 287,
+      "sha256": "e51000d03ed3c5351a165ef5bc550ba2753dfd20f15badadf3b7e03bd1332117"
+    },
+    {
+      "path": "lab4src/task_1/makefile",
+      "bytes": 362,
+      "sha256": "12e4707fc45a7eae4ffad37e59fb558d90511fb809f600616fec38827785a89c"
+    },
+    {
+      "path": "lab4src/task_2_3_4/build/makefile",
+      "bytes": 2080,
+      "sha256": "00ed4f9831afbc91b67ee441ff6103833f50be6eecd52858f458eadce39c4574"
+    },
+    {
+      "path": "lab4src/task_2_3_4/include/asm_utils.h",
+      "bytes": 476,
+      "sha256": "4e911584e4ea83eac6366f426fa0063be8f6cc3531bda3959fb6c9950dc4025e"
+    },
+    {
+      "path": "lab4src/task_2_3_4/include/boot.inc",
+      "bytes": 731,
+      "sha256": "1b965efd000bef4e7c0b0aac75ccfccbfd0adf649fdb9548c4a6d06a7f5e01c0"
+    },
+    {
+      "path": "lab4src/task_2_3_4/include/interrupt.h",
+      "bytes": 980,
+      "sha256": "8beece3e84d33bfd42d07f48cde3b0059837576309e4c7a52d74b065396182c7"
+    },
+    {
+      "path": "lab4src/task_2_3_4/include/os_constant.h",
+      "bytes": 173,
+      "sha256": "82f79fb8d146a21649c0642d2628e0293228726b828779814692e0632992ab37"
+    },
+    {
+      "path": "lab4src/task_2_3_4/include/os_modules.h",
+      "bytes": 155,
+      "sha256": "4e1e059cf0d911d7544a475e93de2ba9e7140c3ae60989a48bcb28ca28661c7c"
+    },
+    {
+      "path": "lab4src/task_2_3_4/include/os_type.h",
+      "bytes": 263,
+      "sha256": "96d9ad7b22b5da800e60919440dedcf34c443f92f3e3cba0c406d644035f9e5a"
+    },
+    {
+      "path": "lab4src/task_2_3_4/include/setup.h",
+      "bytes": 72,
+      "sha256": "bc1808fa2f303e5127bd02860749ee621a6ce9f909bc570bf2195808db97e7e7"
+    },
+    {
+      "path": "lab4src/task_2_3_4/include/stdio.h",
+      "bytes": 675,
+      "sha256": "9f7dd99e0834884e98967192754ab4512810835d14e11d0a3dbc6af4b01d0ef5"
+    },
+    {
+      "path": "lab4src/task_2_3_4/run/gdbinit",
+      "bytes": 99,
+      "sha256": "86c32591ae5e90a641e731f955b61c1e6504aac5019de8e374e53744e39c59e9"
+    },
+    {
+      "path": "lab4src/task_2_3_4/src/boot/bootloader.asm",
+      "bytes": 3387,
+      "sha256": "7801a0564da68b3b28a4951f6f3c416794634e632d7df97d666bbe1c1a09748a"
+    },
+    {
+      "path": "lab4src/task_2_3_4/src/boot/entry.asm",
+      "bytes": 74,
+      "sha256": "e42fccf2ac155d3aae61d2de03a69fc80f92ae2bad1e30baaeec67e63ac5ca2a"
+    },
+    {
+      "path": "lab4src/task_2_3_4/src/boot/mbr.asm",
+      "bytes": 1734,
+      "sha256": "619abfadb90f74fb96b68ae0e1d5f59c62e8fc9d27cebb2819babbafe612b3d7"
+    },
+    {
+      "path": "lab4src/task_2_3_4/src/kernel/interrupt.cpp",
+      "bytes": 3010,
+      "sha256": "b5cbdfc922d8b05c471177b932abfda447614d87b6597389ceb46da61702900c"
+    },
+    {
+      "path": "lab4src/task_2_3_4/src/kernel/setup.cpp",
+      "bytes": 428,
+      "sha256": "67340ed715a430bd07f5ffe2d6cc5c9e5faac86efde317b6fab1d15256359881"
+    },
+    {
+      "path": "lab4src/task_2_3_4/src/kernel/stdio.cpp",
+      "bytes": 1821,
+      "sha256": "e6e2eb10a71e53663cfe81f7585024db20a97613a42177d3a0ad04363d4725e8"
+    },
+    {
+      "path": "lab4src/task_2_3_4/src/utils/asm_utils.asm",
+      "bytes": 2558,
+      "sha256": "2e99eaab0bd225126e36b3a195462b9417dbce8324c8d12c9dd621ace6b49b3f"
+    },
+    {
+      "path": "lab5/hw1/task_2_3_4/build/makefile",
+      "bytes": 2001,
+      "sha256": "b2158ebc8995d1f11dad8dbc05b951f34955afd386cd154feac29356ae82ab1c"
+    },
+    {
+      "path": "lab5/hw1/task_2_3_4/include/asm_utils.h",
+      "bytes": 664,
+      "sha256": "abd5053a80028a5a73fdf979ac7c58e61f8b7db1f90db510cc911ab1bb58d643"
+    },
+    {
+      "path": "lab5/hw1/task_2_3_4/include/boot.inc",
+      "bytes": 731,
+      "sha256": "1b965efd000bef4e7c0b0aac75ccfccbfd0adf649fdb9548c4a6d06a7f5e01c0"
+    },
+    {
+      "path": "lab5/hw1/task_2_3_4/include/interrupt.h",
+      "bytes": 1317,
+      "sha256": "58c3545f42b33357533d5bdbb37fb8b372601120c970a33c6148a6d59326fbaf"
+    },
+    {
+      "path": "lab5/hw1/task_2_3_4/include/list.h",
+      "bytes": 644,
+      "sha256": "24d8642fa43812335cd73bfc63988fd7dcba51f5bfe9a67b92e3988b17cdcbbb"
+    },
+    {
+      "path": "lab5/hw1/task_2_3_4/include/os_constant.h",
+      "bytes": 170,
+      "sha256": "9897025321f2de6cd3fd938ec5611bca3df3797a96d7ca893bad1396ffabd7f1"
+    },
+    {
+      "path": "lab5/hw1/task_2_3_4/include/os_modules.h",
+      "bytes": 213,
+      "sha256": "3adad72b4cde656095501b218be21f605aaeca7a0622f87b67792eeaf068e4b1"
+    },
+    {
+      "path": "lab5/hw1/task_2_3_4/include/os_type.h",
+      "bytes": 263,
+      "sha256": "96d9ad7b22b5da800e60919440dedcf34c443f92f3e3cba0c406d644035f9e5a"
+    },
+    {
+      "path": "lab5/hw1/task_2_3_4/include/program.h",
+      "bytes": 1365,
+      "sha256": "5c37340a6704d4ffb44a03c5a4920dd33d044cb866f7f893adc434ccece85aa6"
+    },
+    {
+      "path": "lab5/hw1/task_2_3_4/include/setup.h",
+      "bytes": 72,
+      "sha256": "bc1808fa2f303e5127bd02860749ee621a6ce9f909bc570bf2195808db97e7e7"
+    },
+    {
+      "path": "lab5/hw1/task_2_3_4/include/stdarg.h",
+      "bytes": 337,
+      "sha256": "2de1d8dcf345e5dc5bb3115f9121b9d2a01b7ff8d09e111d151e7eb1de894596"
+    },
+    {
+      "path": "lab5/hw1/task_2_3_4/include/stdio.h",
+      "bytes": 767,
+      "sha256": "0fbe64b68164020c54f78730cb6c2d3f1f43f1dbe79f0dbc4a36d882c7e38192"
+    },
+    {
+      "path": "lab5/hw1/task_2_3_4/include/stdlib.h",
+      "bytes": 446,
+      "sha256": "907d422bb6dec5505b7a1d95f1ec635fc2fae78299e5fb35e8303406dbd7e3bb"
+    },
+    {
+      "path": "lab5/hw1/task_2_3_4/include/thread.h",
+      "bytes": 1239,
+      "sha256": "562a630380081f911eb527460b434f5eabd4004b880e2f32b36a59beaa5cc736"
+    },
+    {
+      "path": "lab5/hw1/task_2_3_4/run/gdbinit",
+      "bytes": 145,
+      "sha256": "86ed052781567b9cb29e0582dbece2aba510f3804d2af334e5df3edf62b3e507"
+    },
+    {
+      "path": "lab5/hw1/task_2_3_4/src/boot/bootloader.asm",
+      "bytes": 3387,
+      "sha256": "7801a0564da68b3b28a4951f6f3c416794634e632d7df97d666bbe1c1a09748a"
+    },
+    {
+      "path": "lab5/hw1/task_2_3_4/src/boot/entry.asm",
+      "bytes": 74,
+      "sha256": "e42fccf2ac155d3aae61d2de03a69fc80f92ae2bad1e30baaeec67e63ac5ca2a"
+    },
+    {
+      "path": "lab5/hw1/task_2_3_4/src/boot/mbr.asm",
+      "bytes": 1734,
+      "sha256": "619abfadb90f74fb96b68ae0e1d5f59c62e8fc9d27cebb2819babbafe612b3d7"
+    },
+    {
+      "path": "lab5/hw1/task_2_3_4/src/kernel/interrupt.cpp",
+      "bytes": 3534,
+      "sha256": "8f1284f9f22fa53744e35905317f5c74bb9b803633860d946293c9c9cb867db8"
+    },
+    {
+      "path": "lab5/hw1/task_2_3_4/src/kernel/program.cpp",
+      "bytes": 9940,
+      "sha256": "dd9d3525f9d678c137603316c406df7ab5dc7f530bb23b9acbd36740db469325"
+    },
+    {
+      "path": "lab5/hw1/task_2_3_4/src/kernel/setup.cpp",
+      "bytes": 3586,
+      "sha256": "6258868304fe169110720a8a4879ecd1b9081e19e693b11a7491da9ffc2f9f2f"
+    },
+    {
+      "path": "lab5/hw1/task_2_3_4/src/kernel/stdio.cpp",
+      "bytes": 4321,
+      "sha256": "5179fe3e889102f8022ccbba23f3540b827336e2a0ee888b7ff998039ffb25a5"
+    },
+    {
+      "path": "lab5/hw1/task_2_3_4/src/utils/asm_utils.asm",
+      "bytes": 3231,
+      "sha256": "b25711cc11862a851e216991783addb957b1515ca066c0f3151644fababf5f78"
+    },
+    {
+      "path": "lab5/hw1/task_2_3_4/src/utils/list.cpp",
+      "bytes": 4216,
+      "sha256": "bdca88b86acf2e6c677ad7896c2409068434aaca51855ddc885f1c2d275faceb"
+    },
+    {
+      "path": "lab5/hw1/task_2_3_4/src/utils/stdlib.cpp",
+      "bytes": 655,
+      "sha256": "f0924badcd8e076c84521a30b694f8bb3de66e0b4e946897100a42bc2fc4b8e1"
+    },
+    {
+      "path": "lab6/semaphore/build/makefile",
+      "bytes": 2001,
+      "sha256": "b2158ebc8995d1f11dad8dbc05b951f34955afd386cd154feac29356ae82ab1c"
+    },
+    {
+      "path": "lab6/semaphore/include/asm_utils.h",
+      "bytes": 728,
+      "sha256": "eef472b82109f0208421e8b811adf5787c3c629e05323936c167b09f1b4ec3f7"
+    },
+    {
+      "path": "lab6/semaphore/include/boot.inc",
+      "bytes": 731,
+      "sha256": "1b965efd000bef4e7c0b0aac75ccfccbfd0adf649fdb9548c4a6d06a7f5e01c0"
+    },
+    {
+      "path": "lab6/semaphore/include/interrupt.h",
+      "bytes": 1317,
+      "sha256": "58c3545f42b33357533d5bdbb37fb8b372601120c970a33c6148a6d59326fbaf"
+    },
+    {
+      "path": "lab6/semaphore/include/list.h",
+      "bytes": 644,
+      "sha256": "24d8642fa43812335cd73bfc63988fd7dcba51f5bfe9a67b92e3988b17cdcbbb"
+    },
+    {
+      "path": "lab6/semaphore/include/os_constant.h",
+      "bytes": 170,
+      "sha256": "9897025321f2de6cd3fd938ec5611bca3df3797a96d7ca893bad1396ffabd7f1"
+    },
+    {
+      "path": "lab6/semaphore/include/os_modules.h",
+      "bytes": 284,
+      "sha256": "09dcb3f2d52567c999dd74f5d466371eb63c710778915a2a2b9b11372b556961"
+    },
+    {
+      "path": "lab6/semaphore/include/os_type.h",
+      "bytes": 263,
+      "sha256": "96d9ad7b22b5da800e60919440dedcf34c443f92f3e3cba0c406d644035f9e5a"
+    },
+    {
+      "path": "lab6/semaphore/include/program.h",
+      "bytes": 1400,
+      "sha256": "d6bb79db0e7c59ef976ee0861d5fddac00fd433768fedc26eed566e3cdc317ed"
+    },
+    {
+      "path": "lab6/semaphore/include/setup.h",
+      "bytes": 72,
+      "sha256": "bc1808fa2f303e5127bd02860749ee621a6ce9f909bc570bf2195808db97e7e7"
+    },
+    {
+      "path": "lab6/semaphore/include/stdarg.h",
+      "bytes": 337,
+      "sha256": "2de1d8dcf345e5dc5bb3115f9121b9d2a01b7ff8d09e111d151e7eb1de894596"
+    },
+    {
+      "path": "lab6/semaphore/include/stdio.h",
+      "bytes": 767,
+      "sha256": "0fbe64b68164020c54f78730cb6c2d3f1f43f1dbe79f0dbc4a36d882c7e38192"
+    },
+    {
+      "path": "lab6/semaphore/include/stdlib.h",
+      "bytes": 446,
+      "sha256": "907d422bb6dec5505b7a1d95f1ec635fc2fae78299e5fb35e8303406dbd7e3bb"
+    },
+    {
+      "path": "lab6/semaphore/include/sync.h",
+      "bytes": 441,
+      "sha256": "f5704d60d33a97ad99035503371dbe9bbd16de53dc9ba57038054df4b89f3e74"
+    },
+    {
+      "path": "lab6/semaphore/include/thread.h",
+      "bytes": 1239,
+      "sha256": "562a630380081f911eb527460b434f5eabd4004b880e2f32b36a59beaa5cc736"
+    },
+    {
+      "path": "lab6/semaphore/run/gdbinit",
+      "bytes": 145,
+      "sha256": "86ed052781567b9cb29e0582dbece2aba510f3804d2af334e5df3edf62b3e507"
+    },
+    {
+      "path": "lab6/semaphore/src/boot/bootloader.asm",
+      "bytes": 3387,
+      "sha256": "7801a0564da68b3b28a4951f6f3c416794634e632d7df97d666bbe1c1a09748a"
+    },
+    {
+      "path": "lab6/semaphore/src/boot/entry.asm",
+      "bytes": 74,
+      "sha256": "e42fccf2ac155d3aae61d2de03a69fc80f92ae2bad1e30baaeec67e63ac5ca2a"
+    },
+    {
+      "path": "lab6/semaphore/src/boot/mbr.asm",
+      "bytes": 1734,
+      "sha256": "619abfadb90f74fb96b68ae0e1d5f59c62e8fc9d27cebb2819babbafe612b3d7"
+    },
+    {
+      "path": "lab6/semaphore/src/kernel/interrupt.cpp",
+      "bytes": 3534,
+      "sha256": "8f1284f9f22fa53744e35905317f5c74bb9b803633860d946293c9c9cb867db8"
+    },
+    {
+      "path": "lab6/semaphore/src/kernel/program.cpp",
+      "bytes": 10059,
+      "sha256": "d5b91d734d9d3cd6411f7af0dd45e13e92438f28d6d1e62cdb90d0bb12a1c45f"
+    },
+    {
+      "path": "lab6/semaphore/src/kernel/setup.cpp",
+      "bytes": 2493,
+      "sha256": "de2227588e739b70eb5a9f8daa2ad32b67b005f5c766b9322279ec6aa3aacc0a"
+    },
+    {
+      "path": "lab6/semaphore/src/kernel/stdio.cpp",
+      "bytes": 4321,
+      "sha256": "5179fe3e889102f8022ccbba23f3540b827336e2a0ee888b7ff998039ffb25a5"
+    },
+    {
+      "path": "lab6/semaphore/src/kernel/sync.cpp",
+      "bytes": 1327,
+      "sha256": "1b61b3233b6d2e0a7bcbbb03ab5b65496a0da03c35cc3904d6e94487a4a31ce0"
+    },
+    {
+      "path": "lab6/semaphore/src/utils/asm_utils.asm",
+      "bytes": 3488,
+      "sha256": "a50e33d91d2178cebabbb6b7e24058e2f4da0e5c78b59bcf3541fee2a379d069"
+    },
+    {
+      "path": "lab6/semaphore/src/utils/list.cpp",
+      "bytes": 4216,
+      "sha256": "bdca88b86acf2e6c677ad7896c2409068434aaca51855ddc885f1c2d275faceb"
+    },
+    {
+      "path": "lab6/semaphore/src/utils/stdlib.cpp",
+      "bytes": 655,
+      "sha256": "f0924badcd8e076c84521a30b694f8bb3de66e0b4e946897100a42bc2fc4b8e1"
+    },
+    {
+      "path": "lab6/semaphore-consumer/build/makefile",
+      "bytes": 2001,
+      "sha256": "b2158ebc8995d1f11dad8dbc05b951f34955afd386cd154feac29356ae82ab1c"
+    },
+    {
+      "path": "lab6/semaphore-consumer/include/asm_utils.h",
+      "bytes": 728,
+      "sha256": "eef472b82109f0208421e8b811adf5787c3c629e05323936c167b09f1b4ec3f7"
+    },
+    {
+      "path": "lab6/semaphore-consumer/include/boot.inc",
+      "bytes": 731,
+      "sha256": "1b965efd000bef4e7c0b0aac75ccfccbfd0adf649fdb9548c4a6d06a7f5e01c0"
+    },
+    {
+      "path": "lab6/semaphore-consumer/include/interrupt.h",
+      "bytes": 1317,
+      "sha256": "58c3545f42b33357533d5bdbb37fb8b372601120c970a33c6148a6d59326fbaf"
+    },
+    {
+      "path": "lab6/semaphore-consumer/include/list.h",
+      "bytes": 644,
+      "sha256": "24d8642fa43812335cd73bfc63988fd7dcba51f5bfe9a67b92e3988b17cdcbbb"
+    },
+    {
+      "path": "lab6/semaphore-consumer/include/os_constant.h",
+      "bytes": 170,
+      "sha256": "9897025321f2de6cd3fd938ec5611bca3df3797a96d7ca893bad1396ffabd7f1"
+    },
+    {
+      "path": "lab6/semaphore-consumer/include/os_modules.h",
+      "bytes": 284,
+      "sha256": "09dcb3f2d52567c999dd74f5d466371eb63c710778915a2a2b9b11372b556961"
+    },
+    {
+      "path": "lab6/semaphore-consumer/include/os_type.h",
+      "bytes": 263,
+      "sha256": "96d9ad7b22b5da800e60919440dedcf34c443f92f3e3cba0c406d644035f9e5a"
+    },
+    {
+      "path": "lab6/semaphore-consumer/include/program.h",
+      "bytes": 1400,
+      "sha256": "d6bb79db0e7c59ef976ee0861d5fddac00fd433768fedc26eed566e3cdc317ed"
+    },
+    {
+      "path": "lab6/semaphore-consumer/include/setup.h",
+      "bytes": 72,
+      "sha256": "bc1808fa2f303e5127bd02860749ee621a6ce9f909bc570bf2195808db97e7e7"
+    },
+    {
+      "path": "lab6/semaphore-consumer/include/stdarg.h",
+      "bytes": 337,
+      "sha256": "2de1d8dcf345e5dc5bb3115f9121b9d2a01b7ff8d09e111d151e7eb1de894596"
+    },
+    {
+      "path": "lab6/semaphore-consumer/include/stdio.h",
+      "bytes": 767,
+      "sha256": "0fbe64b68164020c54f78730cb6c2d3f1f43f1dbe79f0dbc4a36d882c7e38192"
+    },
+    {
+      "path": "lab6/semaphore-consumer/include/stdlib.h",
+      "bytes": 446,
+      "sha256": "907d422bb6dec5505b7a1d95f1ec635fc2fae78299e5fb35e8303406dbd7e3bb"
+    },
+    {
+      "path": "lab6/semaphore-consumer/include/sync.h",
+      "bytes": 441,
+      "sha256": "f5704d60d33a97ad99035503371dbe9bbd16de53dc9ba57038054df4b89f3e74"
+    },
+    {
+      "path": "lab6/semaphore-consumer/include/thread.h",
+      "bytes": 1239,
+      "sha256": "562a630380081f911eb527460b434f5eabd4004b880e2f32b36a59beaa5cc736"
+    },
+    {
+      "path": "lab6/semaphore-consumer/run/gdbinit",
+      "bytes": 108,
+      "sha256": "38e6efc9fed1492a744e815a70e8c48444adba2e3cfb9269f0f2c88d4a85335d"
+    },
+    {
+      "path": "lab6/semaphore-consumer/src/boot/bootloader.asm",
+      "bytes": 3387,
+      "sha256": "7801a0564da68b3b28a4951f6f3c416794634e632d7df97d666bbe1c1a09748a"
+    },
+    {
+      "path": "lab6/semaphore-consumer/src/boot/entry.asm",
+      "bytes": 74,
+      "sha256": "e42fccf2ac155d3aae61d2de03a69fc80f92ae2bad1e30baaeec67e63ac5ca2a"
+    },
+    {
+      "path": "lab6/semaphore-consumer/src/boot/mbr.asm",
+      "bytes": 1734,
+      "sha256": "619abfadb90f74fb96b68ae0e1d5f59c62e8fc9d27cebb2819babbafe612b3d7"
+    },
+    {
+      "path": "lab6/semaphore-consumer/src/kernel/interrupt.cpp",
+      "bytes": 3534,
+      "sha256": "8f1284f9f22fa53744e35905317f5c74bb9b803633860d946293c9c9cb867db8"
+    },
+    {
+      "path": "lab6/semaphore-consumer/src/kernel/program.cpp",
+      "bytes": 10059,
+      "sha256": "d5b91d734d9d3cd6411f7af0dd45e13e92438f28d6d1e62cdb90d0bb12a1c45f"
+    },
+    {
+      "path": "lab6/semaphore-consumer/src/kernel/setup.cpp",
+      "bytes": 3795,
+      "sha256": "8dbf97d63bbeb5ab86306f9c80c350e6df59ef5f66df1ff4548806d46875b7e9"
+    },
+    {
+      "path": "lab6/semaphore-consumer/src/kernel/stdio.cpp",
+      "bytes": 4321,
+      "sha256": "5179fe3e889102f8022ccbba23f3540b827336e2a0ee888b7ff998039ffb25a5"
+    },
+    {
+      "path": "lab6/semaphore-consumer/src/kernel/sync.cpp",
+      "bytes": 1327,
+      "sha256": "1b61b3233b6d2e0a7bcbbb03ab5b65496a0da03c35cc3904d6e94487a4a31ce0"
+    },
+    {
+      "path": "lab6/semaphore-consumer/src/utils/asm_utils.asm",
+      "bytes": 3488,
+      "sha256": "a50e33d91d2178cebabbb6b7e24058e2f4da0e5c78b59bcf3541fee2a379d069"
+    },
+    {
+      "path": "lab6/semaphore-consumer/src/utils/list.cpp",
+      "bytes": 4216,
+      "sha256": "bdca88b86acf2e6c677ad7896c2409068434aaca51855ddc885f1c2d275faceb"
+    },
+    {
+      "path": "lab6/semaphore-consumer/src/utils/stdlib.cpp",
+      "bytes": 655,
+      "sha256": "f0924badcd8e076c84521a30b694f8bb3de66e0b4e946897100a42bc2fc4b8e1"
+    },
+    {
+      "path": "lab6/semaphore-ph/build/makefile",
+      "bytes": 2001,
+      "sha256": "b2158ebc8995d1f11dad8dbc05b951f34955afd386cd154feac29356ae82ab1c"
+    },
+    {
+      "path": "lab6/semaphore-ph/include/asm_utils.h",
+      "bytes": 728,
+      "sha256": "eef472b82109f0208421e8b811adf5787c3c629e05323936c167b09f1b4ec3f7"
+    },
+    {
+      "path": "lab6/semaphore-ph/include/boot.inc",
+      "bytes": 731,
+      "sha256": "1b965efd000bef4e7c0b0aac75ccfccbfd0adf649fdb9548c4a6d06a7f5e01c0"
+    },
+    {
+      "path": "lab6/semaphore-ph/include/interrupt.h",
+      "bytes": 1317,
+      "sha256": "58c3545f42b33357533d5bdbb37fb8b372601120c970a33c6148a6d59326fbaf"
+    },
+    {
+      "path": "lab6/semaphore-ph/include/list.h",
+      "bytes": 644,
+      "sha256": "24d8642fa43812335cd73bfc63988fd7dcba51f5bfe9a67b92e3988b17cdcbbb"
+    },
+    {
+      "path": "lab6/semaphore-ph/include/os_constant.h",
+      "bytes": 170,
+      "sha256": "9897025321f2de6cd3fd938ec5611bca3df3797a96d7ca893bad1396ffabd7f1"
+    },
+    {
+      "path": "lab6/semaphore-ph/include/os_modules.h",
+      "bytes": 312,
+      "sha256": "1671350d7e45dbac990194769c12bf54a868f45516a0f253c6614b93d4c91f39"
+    },
+    {
+      "path": "lab6/semaphore-ph/include/os_type.h",
+      "bytes": 263,
+      "sha256": "96d9ad7b22b5da800e60919440dedcf34c443f92f3e3cba0c406d644035f9e5a"
+    },
+    {
+      "path": "lab6/semaphore-ph/include/philosopher.h",
+      "bytes": 509,
+      "sha256": "3c37184799552696df294538a8d0a9eaeb31d5d76ce8ad36894aaff21a2a9263"
+    },
+    {
+      "path": "lab6/semaphore-ph/include/program.h",
+      "bytes": 1400,
+      "sha256": "d6bb79db0e7c59ef976ee0861d5fddac00fd433768fedc26eed566e3cdc317ed"
+    },
+    {
+      "path": "lab6/semaphore-ph/include/setup.h",
+      "bytes": 72,
+      "sha256": "bc1808fa2f303e5127bd02860749ee621a6ce9f909bc570bf2195808db97e7e7"
+    },
+    {
+      "path": "lab6/semaphore-ph/include/stdarg.h",
+      "bytes": 337,
+      "sha256": "2de1d8dcf345e5dc5bb3115f9121b9d2a01b7ff8d09e111d151e7eb1de894596"
+    },
+    {
+      "path": "lab6/semaphore-ph/include/stdio.h",
+      "bytes": 767,
+      "sha256": "0fbe64b68164020c54f78730cb6c2d3f1f43f1dbe79f0dbc4a36d882c7e38192"
+    },
+    {
+      "path": "lab6/semaphore-ph/include/stdlib.h",
+      "bytes": 446,
+      "sha256": "907d422bb6dec5505b7a1d95f1ec635fc2fae78299e5fb35e8303406dbd7e3bb"
+    },
+    {
+      "path": "lab6/semaphore-ph/include/sync.h",
+      "bytes": 441,
+      "sha256": "f5704d60d33a97ad99035503371dbe9bbd16de53dc9ba57038054df4b89f3e74"
+    },
+    {
+      "path": "lab6/semaphore-ph/include/thread.h",
+      "bytes": 1239,
+      "sha256": "562a630380081f911eb527460b434f5eabd4004b880e2f32b36a59beaa5cc736"
+    },
+    {
+      "path": "lab6/semaphore-ph/run/gdbinit",
+      "bytes": 145,
+      "sha256": "86ed052781567b9cb29e0582dbece2aba510f3804d2af334e5df3edf62b3e507"
+    },
+    {
+      "path": "lab6/semaphore-ph/src/boot/bootloader.asm",
+      "bytes": 3387,
+      "sha256": "7801a0564da68b3b28a4951f6f3c416794634e632d7df97d666bbe1c1a09748a"
+    },
+    {
+      "path": "lab6/semaphore-ph/src/boot/entry.asm",
+      "bytes": 74,
+      "sha256": "e42fccf2ac155d3aae61d2de03a69fc80f92ae2bad1e30baaeec67e63ac5ca2a"
+    },
+    {
+      "path": "lab6/semaphore-ph/src/boot/mbr.asm",
+      "bytes": 1734,
+      "sha256": "619abfadb90f74fb96b68ae0e1d5f59c62e8fc9d27cebb2819babbafe612b3d7"
+    },
+    {
+      "path": "lab6/semaphore-ph/src/kernel/interrupt.cpp",
+      "bytes": 3534,
+      "sha256": "8f1284f9f22fa53744e35905317f5c74bb9b803633860d946293c9c9cb867db8"
+    },
+    {
+      "path": "lab6/semaphore-ph/src/kernel/philosopher.cpp",
+      "bytes": 1933,
+      "sha256": "295cb11a6ea129fe76c8d2497fca8146ff5fb40816ea87ec42a608b424788d04"
+    },
+    {
+      "path": "lab6/semaphore-ph/src/kernel/program.cpp",
+      "bytes": 10059,
+      "sha256": "d5b91d734d9d3cd6411f7af0dd45e13e92438f28d6d1e62cdb90d0bb12a1c45f"
+    },
+    {
+      "path": "lab6/semaphore-ph/src/kernel/setup.cpp",
+      "bytes": 2987,
+      "sha256": "dfff5d0c08940f4adbf3a27e98bdc960b2c988dc39281bea47be3ed8df4d03ab"
+    },
+    {
+      "path": "lab6/semaphore-ph/src/kernel/stdio.cpp",
+      "bytes": 4321,
+      "sha256": "5179fe3e889102f8022ccbba23f3540b827336e2a0ee888b7ff998039ffb25a5"
+    },
+    {
+      "path": "lab6/semaphore-ph/src/kernel/sync.cpp",
+      "bytes": 1327,
+      "sha256": "1b61b3233b6d2e0a7bcbbb03ab5b65496a0da03c35cc3904d6e94487a4a31ce0"
+    },
+    {
+      "path": "lab6/semaphore-ph/src/utils/asm_utils.asm",
+      "bytes": 3488,
+      "sha256": "a50e33d91d2178cebabbb6b7e24058e2f4da0e5c78b59bcf3541fee2a379d069"
+    },
+    {
+      "path": "lab6/semaphore-ph/src/utils/list.cpp",
+      "bytes": 4216,
+      "sha256": "bdca88b86acf2e6c677ad7896c2409068434aaca51855ddc885f1c2d275faceb"
+    },
+    {
+      "path": "lab6/semaphore-ph/src/utils/stdlib.cpp",
+      "bytes": 655,
+      "sha256": "f0924badcd8e076c84521a30b694f8bb3de66e0b4e946897100a42bc2fc4b8e1"
+    },
+    {
+      "path": "lab6/spinlock/build/makefile",
+      "bytes": 2001,
+      "sha256": "b2158ebc8995d1f11dad8dbc05b951f34955afd386cd154feac29356ae82ab1c"
+    },
+    {
+      "path": "lab6/spinlock/include/asm_utils.h",
+      "bytes": 728,
+      "sha256": "eef472b82109f0208421e8b811adf5787c3c629e05323936c167b09f1b4ec3f7"
+    },
+    {
+      "path": "lab6/spinlock/include/boot.inc",
+      "bytes": 731,
+      "sha256": "1b965efd000bef4e7c0b0aac75ccfccbfd0adf649fdb9548c4a6d06a7f5e01c0"
+    },
+    {
+      "path": "lab6/spinlock/include/interrupt.h",
+      "bytes": 1317,
+      "sha256": "58c3545f42b33357533d5bdbb37fb8b372601120c970a33c6148a6d59326fbaf"
+    },
+    {
+      "path": "lab6/spinlock/include/list.h",
+      "bytes": 644,
+      "sha256": "24d8642fa43812335cd73bfc63988fd7dcba51f5bfe9a67b92e3988b17cdcbbb"
+    },
+    {
+      "path": "lab6/spinlock/include/os_constant.h",
+      "bytes": 170,
+      "sha256": "9897025321f2de6cd3fd938ec5611bca3df3797a96d7ca893bad1396ffabd7f1"
+    },
+    {
+      "path": "lab6/spinlock/include/os_modules.h",
+      "bytes": 255,
+      "sha256": "38950dc5d022447c4d4c96f52905f28d27b81907554abcb03870bc5f6e8e031c"
+    },
+    {
+      "path": "lab6/spinlock/include/os_type.h",
+      "bytes": 263,
+      "sha256": "96d9ad7b22b5da800e60919440dedcf34c443f92f3e3cba0c406d644035f9e5a"
+    },
+    {
+      "path": "lab6/spinlock/include/program.h",
+      "bytes": 1365,
+      "sha256": "5c37340a6704d4ffb44a03c5a4920dd33d044cb866f7f893adc434ccece85aa6"
+    },
+    {
+      "path": "lab6/spinlock/include/setup.h",
+      "bytes": 72,
+      "sha256": "bc1808fa2f303e5127bd02860749ee621a6ce9f909bc570bf2195808db97e7e7"
+    },
+    {
+      "path": "lab6/spinlock/include/stdarg.h",
+      "bytes": 337,
+      "sha256": "2de1d8dcf345e5dc5bb3115f9121b9d2a01b7ff8d09e111d151e7eb1de894596"
+    },
+    {
+      "path": "lab6/spinlock/include/stdio.h",
+      "bytes": 767,
+      "sha256": "0fbe64b68164020c54f78730cb6c2d3f1f43f1dbe79f0dbc4a36d882c7e38192"
+    },
+    {
+      "path": "lab6/spinlock/include/stdlib.h",
+      "bytes": 446,
+      "sha256": "907d422bb6dec5505b7a1d95f1ec635fc2fae78299e5fb35e8303406dbd7e3bb"
+    },
+    {
+      "path": "lab6/spinlock/include/sync.h",
+      "bytes": 207,
+      "sha256": "a9483b987a46ffa1f7fda0eb7267085ab339f3242a466f7b27ac0009fe748fe9"
+    },
+    {
+      "path": "lab6/spinlock/include/thread.h",
+      "bytes": 1239,
+      "sha256": "562a630380081f911eb527460b434f5eabd4004b880e2f32b36a59beaa5cc736"
+    },
+    {
+      "path": "lab6/spinlock/run/gdbinit",
+      "bytes": 145,
+      "sha256": "86ed052781567b9cb29e0582dbece2aba510f3804d2af334e5df3edf62b3e507"
+    },
+    {
+      "path": "lab6/spinlock/src/boot/bootloader.asm",
+      "bytes": 3387,
+      "sha256": "7801a0564da68b3b28a4951f6f3c416794634e632d7df97d666bbe1c1a09748a"
+    },
+    {
+      "path": "lab6/spinlock/src/boot/entry.asm",
+      "bytes": 74,
+      "sha256": "e42fccf2ac155d3aae61d2de03a69fc80f92ae2bad1e30baaeec67e63ac5ca2a"
+    },
+    {
+      "path": "lab6/spinlock/src/boot/mbr.asm",
+      "bytes": 1734,
+      "sha256": "619abfadb90f74fb96b68ae0e1d5f59c62e8fc9d27cebb2819babbafe612b3d7"
+    },
+    {
+      "path": "lab6/spinlock/src/kernel/interrupt.cpp",
+      "bytes": 3534,
+      "sha256": "8f1284f9f22fa53744e35905317f5c74bb9b803633860d946293c9c9cb867db8"
+    },
+    {
+      "path": "lab6/spinlock/src/kernel/program.cpp",
+      "bytes": 9922,
+      "sha256": "ffcdde76471d7f1b781a853a3493296e2e56a1fe23e55750146632968bda5584"
+    },
+    {
+      "path": "lab6/spinlock/src/kernel/setup.cpp",
+      "bytes": 2404,
+      "sha256": "5a145597f6e1bf1de9f1f8fc030f958eb52b441d76b0699d70995b926efdc2bb"
+    },
+    {
+      "path": "lab6/spinlock/src/kernel/stdio.cpp",
+      "bytes": 4321,
+      "sha256": "5179fe3e889102f8022ccbba23f3540b827336e2a0ee888b7ff998039ffb25a5"
+    },
+    {
+      "path": "lab6/spinlock/src/kernel/sync.cpp",
+      "bytes": 349,
+      "sha256": "24e3b440ebaa9865f7279fda1e9ce33986a9d019452a4feb3bf0e3b6203720a9"
+    },
+    {
+      "path": "lab6/spinlock/src/utils/asm_utils.asm",
+      "bytes": 3488,
+      "sha256": "a50e33d91d2178cebabbb6b7e24058e2f4da0e5c78b59bcf3541fee2a379d069"
+    },
+    {
+      "path": "lab6/spinlock/src/utils/list.cpp",
+      "bytes": 4216,
+      "sha256": "bdca88b86acf2e6c677ad7896c2409068434aaca51855ddc885f1c2d275faceb"
+    },
+    {
+      "path": "lab6/spinlock/src/utils/stdlib.cpp",
+      "bytes": 655,
+      "sha256": "f0924badcd8e076c84521a30b694f8bb3de66e0b4e946897100a42bc2fc4b8e1"
+    },
+    {
+      "path": "lab6/spinlock-consumer_bug/build/makefile",
+      "bytes": 2001,
+      "sha256": "b2158ebc8995d1f11dad8dbc05b951f34955afd386cd154feac29356ae82ab1c"
+    },
+    {
+      "path": "lab6/spinlock-consumer_bug/include/asm_utils.h",
+      "bytes": 728,
+      "sha256": "eef472b82109f0208421e8b811adf5787c3c629e05323936c167b09f1b4ec3f7"
+    },
+    {
+      "path": "lab6/spinlock-consumer_bug/include/boot.inc",
+      "bytes": 731,
+      "sha256": "1b965efd000bef4e7c0b0aac75ccfccbfd0adf649fdb9548c4a6d06a7f5e01c0"
+    },
+    {
+      "path": "lab6/spinlock-consumer_bug/include/interrupt.h",
+      "bytes": 1317,
+      "sha256": "58c3545f42b33357533d5bdbb37fb8b372601120c970a33c6148a6d59326fbaf"
+    },
+    {
+      "path": "lab6/spinlock-consumer_bug/include/list.h",
+      "bytes": 644,
+      "sha256": "24d8642fa43812335cd73bfc63988fd7dcba51f5bfe9a67b92e3988b17cdcbbb"
+    },
+    {
+      "path": "lab6/spinlock-consumer_bug/include/os_constant.h",
+      "bytes": 170,
+      "sha256": "9897025321f2de6cd3fd938ec5611bca3df3797a96d7ca893bad1396ffabd7f1"
+    },
+    {
+      "path": "lab6/spinlock-consumer_bug/include/os_modules.h",
+      "bytes": 255,
+      "sha256": "38950dc5d022447c4d4c96f52905f28d27b81907554abcb03870bc5f6e8e031c"
+    },
+    {
+      "path": "lab6/spinlock-consumer_bug/include/os_type.h",
+      "bytes": 263,
+      "sha256": "96d9ad7b22b5da800e60919440dedcf34c443f92f3e3cba0c406d644035f9e5a"
+    },
+    {
+      "path": "lab6/spinlock-consumer_bug/include/program.h",
+      "bytes": 1365,
+      "sha256": "5c37340a6704d4ffb44a03c5a4920dd33d044cb866f7f893adc434ccece85aa6"
+    },
+    {
+      "path": "lab6/spinlock-consumer_bug/include/setup.h",
+      "bytes": 72,
+      "sha256": "bc1808fa2f303e5127bd02860749ee621a6ce9f909bc570bf2195808db97e7e7"
+    },
+    {
+      "path": "lab6/spinlock-consumer_bug/include/stdarg.h",
+      "bytes": 337,
+      "sha256": "2de1d8dcf345e5dc5bb3115f9121b9d2a01b7ff8d09e111d151e7eb1de894596"
+    },
+    {
+      "path": "lab6/spinlock-consumer_bug/include/stdio.h",
+      "bytes": 767,
+      "sha256": "0fbe64b68164020c54f78730cb6c2d3f1f43f1dbe79f0dbc4a36d882c7e38192"
+    },
+    {
+      "path": "lab6/spinlock-consumer_bug/include/stdlib.h",
+      "bytes": 446,
+      "sha256": "907d422bb6dec5505b7a1d95f1ec635fc2fae78299e5fb35e8303406dbd7e3bb"
+    },
+    {
+      "path": "lab6/spinlock-consumer_bug/include/sync.h",
+      "bytes": 207,
+      "sha256": "a9483b987a46ffa1f7fda0eb7267085ab339f3242a466f7b27ac0009fe748fe9"
+    },
+    {
+      "path": "lab6/spinlock-consumer_bug/include/thread.h",
+      "bytes": 1239,
+      "sha256": "562a630380081f911eb527460b434f5eabd4004b880e2f32b36a59beaa5cc736"
+    },
+    {
+      "path": "lab6/spinlock-consumer_bug/run/gdbinit",
+      "bytes": 145,
+      "sha256": "86ed052781567b9cb29e0582dbece2aba510f3804d2af334e5df3edf62b3e507"
+    },
+    {
+      "path": "lab6/spinlock-consumer_bug/src/boot/bootloader.asm",
+      "bytes": 3387,
+      "sha256": "7801a0564da68b3b28a4951f6f3c416794634e632d7df97d666bbe1c1a09748a"
+    },
+    {
+      "path": "lab6/spinlock-consumer_bug/src/boot/entry.asm",
+      "bytes": 74,
+      "sha256": "e42fccf2ac155d3aae61d2de03a69fc80f92ae2bad1e30baaeec67e63ac5ca2a"
+    },
+    {
+      "path": "lab6/spinlock-consumer_bug/src/boot/mbr.asm",
+      "bytes": 1734,
+      "sha256": "619abfadb90f74fb96b68ae0e1d5f59c62e8fc9d27cebb2819babbafe612b3d7"
+    },
+    {
+      "path": "lab6/spinlock-consumer_bug/src/kernel/interrupt.cpp",
+      "bytes": 3534,
+      "sha256": "8f1284f9f22fa53744e35905317f5c74bb9b803633860d946293c9c9cb867db8"
+    },
+    {
+      "path": "lab6/spinlock-consumer_bug/src/kernel/program.cpp",
+      "bytes": 9915,
+      "sha256": "194635edc3bac6604bcbe3cf4aed01cecb1289c3a680986a9f14c003fb4bac47"
+    },
+    {
+      "path": "lab6/spinlock-consumer_bug/src/kernel/setup.cpp",
+      "bytes": 3360,
+      "sha256": "5725250cb8476d8f579e80e1c5d547c4083d95d3889dc9dadcaa615187f0ba69"
+    },
+    {
+      "path": "lab6/spinlock-consumer_bug/src/kernel/stdio.cpp",
+      "bytes": 4321,
+      "sha256": "5179fe3e889102f8022ccbba23f3540b827336e2a0ee888b7ff998039ffb25a5"
+    },
+    {
+      "path": "lab6/spinlock-consumer_bug/src/kernel/sync.cpp",
+      "bytes": 349,
+      "sha256": "24e3b440ebaa9865f7279fda1e9ce33986a9d019452a4feb3bf0e3b6203720a9"
+    },
+    {
+      "path": "lab6/spinlock-consumer_bug/src/utils/asm_utils.asm",
+      "bytes": 3488,
+      "sha256": "a50e33d91d2178cebabbb6b7e24058e2f4da0e5c78b59bcf3541fee2a379d069"
+    },
+    {
+      "path": "lab6/spinlock-consumer_bug/src/utils/list.cpp",
+      "bytes": 4216,
+      "sha256": "bdca88b86acf2e6c677ad7896c2409068434aaca51855ddc885f1c2d275faceb"
+    },
+    {
+      "path": "lab6/spinlock-consumer_bug/src/utils/stdlib.cpp",
+      "bytes": 655,
+      "sha256": "f0924badcd8e076c84521a30b694f8bb3de66e0b4e946897100a42bc2fc4b8e1"
+    },
+    {
+      "path": "lab6/spinlock-v2/build/makefile",
+      "bytes": 2001,
+      "sha256": "b2158ebc8995d1f11dad8dbc05b951f34955afd386cd154feac29356ae82ab1c"
+    },
+    {
+      "path": "lab6/spinlock-v2/include/asm_utils.h",
+      "bytes": 921,
+      "sha256": "c4019b9f0685b89717e6133437a59293f215007de7e9d2c42e31dd9d42bb0c73",
+      "originalSha256": "a228c2a535fb2eed19326ed1af9add5411a08ebe5248911934b69c871031f17f"
+    },
+    {
+      "path": "lab6/spinlock-v2/include/boot.inc",
+      "bytes": 731,
+      "sha256": "1b965efd000bef4e7c0b0aac75ccfccbfd0adf649fdb9548c4a6d06a7f5e01c0"
+    },
+    {
+      "path": "lab6/spinlock-v2/include/interrupt.h",
+      "bytes": 1317,
+      "sha256": "58c3545f42b33357533d5bdbb37fb8b372601120c970a33c6148a6d59326fbaf"
+    },
+    {
+      "path": "lab6/spinlock-v2/include/list.h",
+      "bytes": 644,
+      "sha256": "24d8642fa43812335cd73bfc63988fd7dcba51f5bfe9a67b92e3988b17cdcbbb"
+    },
+    {
+      "path": "lab6/spinlock-v2/include/os_constant.h",
+      "bytes": 170,
+      "sha256": "9897025321f2de6cd3fd938ec5611bca3df3797a96d7ca893bad1396ffabd7f1"
+    },
+    {
+      "path": "lab6/spinlock-v2/include/os_modules.h",
+      "bytes": 255,
+      "sha256": "38950dc5d022447c4d4c96f52905f28d27b81907554abcb03870bc5f6e8e031c"
+    },
+    {
+      "path": "lab6/spinlock-v2/include/os_type.h",
+      "bytes": 263,
+      "sha256": "96d9ad7b22b5da800e60919440dedcf34c443f92f3e3cba0c406d644035f9e5a"
+    },
+    {
+      "path": "lab6/spinlock-v2/include/program.h",
+      "bytes": 1365,
+      "sha256": "5c37340a6704d4ffb44a03c5a4920dd33d044cb866f7f893adc434ccece85aa6"
+    },
+    {
+      "path": "lab6/spinlock-v2/include/setup.h",
+      "bytes": 72,
+      "sha256": "bc1808fa2f303e5127bd02860749ee621a6ce9f909bc570bf2195808db97e7e7"
+    },
+    {
+      "path": "lab6/spinlock-v2/include/stdarg.h",
+      "bytes": 337,
+      "sha256": "2de1d8dcf345e5dc5bb3115f9121b9d2a01b7ff8d09e111d151e7eb1de894596"
+    },
+    {
+      "path": "lab6/spinlock-v2/include/stdio.h",
+      "bytes": 767,
+      "sha256": "0fbe64b68164020c54f78730cb6c2d3f1f43f1dbe79f0dbc4a36d882c7e38192"
+    },
+    {
+      "path": "lab6/spinlock-v2/include/stdlib.h",
+      "bytes": 446,
+      "sha256": "907d422bb6dec5505b7a1d95f1ec635fc2fae78299e5fb35e8303406dbd7e3bb"
+    },
+    {
+      "path": "lab6/spinlock-v2/include/sync.h",
+      "bytes": 219,
+      "sha256": "0d70f2133553e399e11295601a6afd0516e9e0dc23e937e51d77c3d86f595c15"
+    },
+    {
+      "path": "lab6/spinlock-v2/include/thread.h",
+      "bytes": 1239,
+      "sha256": "562a630380081f911eb527460b434f5eabd4004b880e2f32b36a59beaa5cc736"
+    },
+    {
+      "path": "lab6/spinlock-v2/run/gdbinit",
+      "bytes": 145,
+      "sha256": "86ed052781567b9cb29e0582dbece2aba510f3804d2af334e5df3edf62b3e507"
+    },
+    {
+      "path": "lab6/spinlock-v2/src/boot/bootloader.asm",
+      "bytes": 3387,
+      "sha256": "7801a0564da68b3b28a4951f6f3c416794634e632d7df97d666bbe1c1a09748a"
+    },
+    {
+      "path": "lab6/spinlock-v2/src/boot/entry.asm",
+      "bytes": 74,
+      "sha256": "e42fccf2ac155d3aae61d2de03a69fc80f92ae2bad1e30baaeec67e63ac5ca2a"
+    },
+    {
+      "path": "lab6/spinlock-v2/src/boot/mbr.asm",
+      "bytes": 1734,
+      "sha256": "619abfadb90f74fb96b68ae0e1d5f59c62e8fc9d27cebb2819babbafe612b3d7"
+    },
+    {
+      "path": "lab6/spinlock-v2/src/kernel/interrupt.cpp",
+      "bytes": 3534,
+      "sha256": "8f1284f9f22fa53744e35905317f5c74bb9b803633860d946293c9c9cb867db8"
+    },
+    {
+      "path": "lab6/spinlock-v2/src/kernel/program.cpp",
+      "bytes": 9922,
+      "sha256": "ffcdde76471d7f1b781a853a3493296e2e56a1fe23e55750146632968bda5584"
+    },
+    {
+      "path": "lab6/spinlock-v2/src/kernel/setup.cpp",
+      "bytes": 2404,
+      "sha256": "5a145597f6e1bf1de9f1f8fc030f958eb52b441d76b0699d70995b926efdc2bb"
+    },
+    {
+      "path": "lab6/spinlock-v2/src/kernel/stdio.cpp",
+      "bytes": 4321,
+      "sha256": "5179fe3e889102f8022ccbba23f3540b827336e2a0ee888b7ff998039ffb25a5"
+    },
+    {
+      "path": "lab6/spinlock-v2/src/kernel/sync.cpp",
+      "bytes": 290,
+      "sha256": "872b87ba77632684a27ffa580ba50ad510a25eddd07a2c34ed5ff7c8791da435"
+    },
+    {
+      "path": "lab6/spinlock-v2/src/utils/asm_utils.asm",
+      "bytes": 3846,
+      "sha256": "3d7b9aa48b2ed7deca119964f08f2c5279adb0337448a9f4f9ee8eb26d62ee2c"
+    },
+    {
+      "path": "lab6/spinlock-v2/src/utils/list.cpp",
+      "bytes": 4216,
+      "sha256": "bdca88b86acf2e6c677ad7896c2409068434aaca51855ddc885f1c2d275faceb"
+    },
+    {
+      "path": "lab6/spinlock-v2/src/utils/stdlib.cpp",
+      "bytes": 655,
+      "sha256": "f0924badcd8e076c84521a30b694f8bb3de66e0b4e946897100a42bc2fc4b8e1"
+    },
+    {
+      "path": "lab7/paging/build/makefile",
+      "bytes": 2001,
+      "sha256": "b2158ebc8995d1f11dad8dbc05b951f34955afd386cd154feac29356ae82ab1c"
+    },
+    {
+      "path": "lab7/paging/include/address_pool.h",
+      "bytes": 608,
+      "sha256": "e2021f9cac667ffc88ceba032dbcf859d9c2ff175627dfba69efb7ac97700b07"
+    },
+    {
+      "path": "lab7/paging/include/asm_utils.h",
+      "bytes": 780,
+      "sha256": "4a5fe8322759dadee4e8fc3219a22c90fe835364d43e25af42d13c1b11efa8f7"
+    },
+    {
+      "path": "lab7/paging/include/bitmap.h",
+      "bytes": 1056,
+      "sha256": "3bbcbe6ec74933b9212b9ba7d2bfc6f316d208c7315c1a419166aece6b0a30d1"
+    },
+    {
+      "path": "lab7/paging/include/boot.inc",
+      "bytes": 731,
+      "sha256": "1b965efd000bef4e7c0b0aac75ccfccbfd0adf649fdb9548c4a6d06a7f5e01c0"
+    },
+    {
+      "path": "lab7/paging/include/interrupt.h",
+      "bytes": 1317,
+      "sha256": "58c3545f42b33357533d5bdbb37fb8b372601120c970a33c6148a6d59326fbaf"
+    },
+    {
+      "path": "lab7/paging/include/list.h",
+      "bytes": 644,
+      "sha256": "24d8642fa43812335cd73bfc63988fd7dcba51f5bfe9a67b92e3988b17cdcbbb"
+    },
+    {
+      "path": "lab7/paging/include/memory.h",
+      "bytes": 1866,
+      "sha256": "914c6853309c5eff36ef8a5106827a7cb306c021c39c177d4f5b48876511a3c9"
+    },
+    {
+      "path": "lab7/paging/include/os_constant.h",
+      "bytes": 339,
+      "sha256": "4d2346ae37cee7f3ff03bb48f15ccae9bef43766cc023d9c4aeb417774be1ab0"
+    },
+    {
+      "path": "lab7/paging/include/os_modules.h",
+      "bytes": 408,
+      "sha256": "97a34d43f99c10badf865a0799c49d78a6304e41215ec07ddbe0a569c8995022"
+    },
+    {
+      "path": "lab7/paging/include/os_type.h",
+      "bytes": 263,
+      "sha256": "96d9ad7b22b5da800e60919440dedcf34c443f92f3e3cba0c406d644035f9e5a"
+    },
+    {
+      "path": "lab7/paging/include/program.h",
+      "bytes": 1400,
+      "sha256": "d6bb79db0e7c59ef976ee0861d5fddac00fd433768fedc26eed566e3cdc317ed"
+    },
+    {
+      "path": "lab7/paging/include/setup.h",
+      "bytes": 72,
+      "sha256": "bc1808fa2f303e5127bd02860749ee621a6ce9f909bc570bf2195808db97e7e7"
+    },
+    {
+      "path": "lab7/paging/include/stdarg.h",
+      "bytes": 337,
+      "sha256": "2de1d8dcf345e5dc5bb3115f9121b9d2a01b7ff8d09e111d151e7eb1de894596"
+    },
+    {
+      "path": "lab7/paging/include/stdio.h",
+      "bytes": 767,
+      "sha256": "0fbe64b68164020c54f78730cb6c2d3f1f43f1dbe79f0dbc4a36d882c7e38192"
+    },
+    {
+      "path": "lab7/paging/include/stdlib.h",
+      "bytes": 496,
+      "sha256": "4565388e9501de8ecaf9e17a60258525a9f77f8a1c1f3fd2f3c31cd54f019c26"
+    },
+    {
+      "path": "lab7/paging/include/sync.h",
+      "bytes": 441,
+      "sha256": "f5704d60d33a97ad99035503371dbe9bbd16de53dc9ba57038054df4b89f3e74"
+    },
+    {
+      "path": "lab7/paging/include/thread.h",
+      "bytes": 1239,
+      "sha256": "562a630380081f911eb527460b434f5eabd4004b880e2f32b36a59beaa5cc736"
+    },
+    {
+      "path": "lab7/paging/run/gdbinit",
+      "bytes": 145,
+      "sha256": "86ed052781567b9cb29e0582dbece2aba510f3804d2af334e5df3edf62b3e507"
+    },
+    {
+      "path": "lab7/paging/src/boot/bootloader.asm",
+      "bytes": 3387,
+      "sha256": "7801a0564da68b3b28a4951f6f3c416794634e632d7df97d666bbe1c1a09748a"
+    },
+    {
+      "path": "lab7/paging/src/boot/entry.asm",
+      "bytes": 74,
+      "sha256": "e42fccf2ac155d3aae61d2de03a69fc80f92ae2bad1e30baaeec67e63ac5ca2a"
+    },
+    {
+      "path": "lab7/paging/src/boot/mbr.asm",
+      "bytes": 1839,
+      "sha256": "b349a3c41e5bf5b2eea954eaeb2914cbf5e58e216058a5afac8c4bf3aaea00f1"
+    },
+    {
+      "path": "lab7/paging/src/kernel/interrupt.cpp",
+      "bytes": 3534,
+      "sha256": "8f1284f9f22fa53744e35905317f5c74bb9b803633860d946293c9c9cb867db8"
+    },
+    {
+      "path": "lab7/paging/src/kernel/memory.cpp",
+      "bytes": 11435,
+      "sha256": "c4405596cb6525d02729cbe5e225c98caf397154fe7432b4f967b7e72099accb"
+    },
+    {
+      "path": "lab7/paging/src/kernel/program.cpp",
+      "bytes": 10059,
+      "sha256": "d5b91d734d9d3cd6411f7af0dd45e13e92438f28d6d1e62cdb90d0bb12a1c45f"
+    },
+    {
+      "path": "lab7/paging/src/kernel/setup.cpp",
+      "bytes": 3462,
+      "sha256": "188ec5ed4cc5358a5e069a02360238bcc5100aaffd67d19f02eb74d485f274d7"
+    },
+    {
+      "path": "lab7/paging/src/kernel/stdio.cpp",
+      "bytes": 4321,
+      "sha256": "5179fe3e889102f8022ccbba23f3540b827336e2a0ee888b7ff998039ffb25a5"
+    },
+    {
+      "path": "lab7/paging/src/kernel/sync.cpp",
+      "bytes": 1327,
+      "sha256": "1b61b3233b6d2e0a7bcbbb03ab5b65496a0da03c35cc3904d6e94487a4a31ce0"
+    },
+    {
+      "path": "lab7/paging/src/utils/address_pool.cpp",
+      "bytes": 977,
+      "sha256": "f81d96f9c534f0efd5d7db03ff8f591cba34f76a2b5f91af10fd3d04a90d26c2"
+    },
+    {
+      "path": "lab7/paging/src/utils/asm_utils.asm",
+      "bytes": 3782,
+      "sha256": "3bd7eacd1548341c4c0a8bdb177f8d0075a00f9bf059474ea0d75527fd09387f"
+    },
+    {
+      "path": "lab7/paging/src/utils/bitmap.cpp",
+      "bytes": 2204,
+      "sha256": "e52d86a4f2da23c896a25db46364c0bbf1dcdeec651696f65d5e1f94acd027de"
+    },
+    {
+      "path": "lab7/paging/src/utils/list.cpp",
+      "bytes": 4216,
+      "sha256": "bdca88b86acf2e6c677ad7896c2409068434aaca51855ddc885f1c2d275faceb"
+    },
+    {
+      "path": "lab7/paging/src/utils/stdlib.cpp",
+      "bytes": 754,
+      "sha256": "ca10e4f8c2045d315efae72de5424f48033c1f2442d9769e832774a77bb588f0"
+    },
+    {
+      "path": "lab7/paging_problem/build/makefile",
+      "bytes": 2001,
+      "sha256": "b2158ebc8995d1f11dad8dbc05b951f34955afd386cd154feac29356ae82ab1c"
+    },
+    {
+      "path": "lab7/paging_problem/include/address_pool.h",
+      "bytes": 608,
+      "sha256": "e2021f9cac667ffc88ceba032dbcf859d9c2ff175627dfba69efb7ac97700b07"
+    },
+    {
+      "path": "lab7/paging_problem/include/asm_utils.h",
+      "bytes": 780,
+      "sha256": "4a5fe8322759dadee4e8fc3219a22c90fe835364d43e25af42d13c1b11efa8f7"
+    },
+    {
+      "path": "lab7/paging_problem/include/bitmap.h",
+      "bytes": 1056,
+      "sha256": "3bbcbe6ec74933b9212b9ba7d2bfc6f316d208c7315c1a419166aece6b0a30d1"
+    },
+    {
+      "path": "lab7/paging_problem/include/boot.inc",
+      "bytes": 731,
+      "sha256": "1b965efd000bef4e7c0b0aac75ccfccbfd0adf649fdb9548c4a6d06a7f5e01c0"
+    },
+    {
+      "path": "lab7/paging_problem/include/interrupt.h",
+      "bytes": 1317,
+      "sha256": "58c3545f42b33357533d5bdbb37fb8b372601120c970a33c6148a6d59326fbaf"
+    },
+    {
+      "path": "lab7/paging_problem/include/list.h",
+      "bytes": 644,
+      "sha256": "24d8642fa43812335cd73bfc63988fd7dcba51f5bfe9a67b92e3988b17cdcbbb"
+    },
+    {
+      "path": "lab7/paging_problem/include/memory.h",
+      "bytes": 1736,
+      "sha256": "a4b7a5886c8cd0766413d3ed335f26a77db1ee7dfad0dbe6be1147f11a1797cf"
+    },
+    {
+      "path": "lab7/paging_problem/include/os_constant.h",
+      "bytes": 339,
+      "sha256": "4d2346ae37cee7f3ff03bb48f15ccae9bef43766cc023d9c4aeb417774be1ab0"
+    },
+    {
+      "path": "lab7/paging_problem/include/os_modules.h",
+      "bytes": 379,
+      "sha256": "a6e3d0e982cd1964bb4e5246d0af3e3483db9b0b33ac1a3c8b497bceef48add1"
+    },
+    {
+      "path": "lab7/paging_problem/include/os_type.h",
+      "bytes": 263,
+      "sha256": "96d9ad7b22b5da800e60919440dedcf34c443f92f3e3cba0c406d644035f9e5a"
+    },
+    {
+      "path": "lab7/paging_problem/include/program.h",
+      "bytes": 1400,
+      "sha256": "d6bb79db0e7c59ef976ee0861d5fddac00fd433768fedc26eed566e3cdc317ed"
+    },
+    {
+      "path": "lab7/paging_problem/include/setup.h",
+      "bytes": 72,
+      "sha256": "bc1808fa2f303e5127bd02860749ee621a6ce9f909bc570bf2195808db97e7e7"
+    },
+    {
+      "path": "lab7/paging_problem/include/stdarg.h",
+      "bytes": 337,
+      "sha256": "2de1d8dcf345e5dc5bb3115f9121b9d2a01b7ff8d09e111d151e7eb1de894596"
+    },
+    {
+      "path": "lab7/paging_problem/include/stdio.h",
+      "bytes": 767,
+      "sha256": "0fbe64b68164020c54f78730cb6c2d3f1f43f1dbe79f0dbc4a36d882c7e38192"
+    },
+    {
+      "path": "lab7/paging_problem/include/stdlib.h",
+      "bytes": 496,
+      "sha256": "4565388e9501de8ecaf9e17a60258525a9f77f8a1c1f3fd2f3c31cd54f019c26"
+    },
+    {
+      "path": "lab7/paging_problem/include/sync.h",
+      "bytes": 441,
+      "sha256": "f5704d60d33a97ad99035503371dbe9bbd16de53dc9ba57038054df4b89f3e74"
+    },
+    {
+      "path": "lab7/paging_problem/include/thread.h",
+      "bytes": 1239,
+      "sha256": "562a630380081f911eb527460b434f5eabd4004b880e2f32b36a59beaa5cc736"
+    },
+    {
+      "path": "lab7/paging_problem/run/gdbinit",
+      "bytes": 145,
+      "sha256": "86ed052781567b9cb29e0582dbece2aba510f3804d2af334e5df3edf62b3e507"
+    },
+    {
+      "path": "lab7/paging_problem/src/boot/bootloader.asm",
+      "bytes": 3387,
+      "sha256": "7801a0564da68b3b28a4951f6f3c416794634e632d7df97d666bbe1c1a09748a"
+    },
+    {
+      "path": "lab7/paging_problem/src/boot/entry.asm",
+      "bytes": 74,
+      "sha256": "e42fccf2ac155d3aae61d2de03a69fc80f92ae2bad1e30baaeec67e63ac5ca2a"
+    },
+    {
+      "path": "lab7/paging_problem/src/boot/mbr.asm",
+      "bytes": 1839,
+      "sha256": "b349a3c41e5bf5b2eea954eaeb2914cbf5e58e216058a5afac8c4bf3aaea00f1"
+    },
+    {
+      "path": "lab7/paging_problem/src/kernel/interrupt.cpp",
+      "bytes": 3534,
+      "sha256": "8f1284f9f22fa53744e35905317f5c74bb9b803633860d946293c9c9cb867db8"
+    },
+    {
+      "path": "lab7/paging_problem/src/kernel/memory.cpp",
+      "bytes": 9018,
+      "sha256": "a049d5f38ddea790d401a7a4d93328c5365f24134d5ccd026e4e3265256f0288"
+    },
+    {
+      "path": "lab7/paging_problem/src/kernel/program.cpp",
+      "bytes": 10059,
+      "sha256": "d5b91d734d9d3cd6411f7af0dd45e13e92438f28d6d1e62cdb90d0bb12a1c45f"
+    },
+    {
+      "path": "lab7/paging_problem/src/kernel/setup.cpp",
+      "bytes": 3461,
+      "sha256": "4e9d1d8751393c42867d3dad956098b76849093c56c5bf062af5b9d944aaeaf2"
+    },
+    {
+      "path": "lab7/paging_problem/src/kernel/stdio.cpp",
+      "bytes": 4321,
+      "sha256": "5179fe3e889102f8022ccbba23f3540b827336e2a0ee888b7ff998039ffb25a5"
+    },
+    {
+      "path": "lab7/paging_problem/src/kernel/sync.cpp",
+      "bytes": 1327,
+      "sha256": "1b61b3233b6d2e0a7bcbbb03ab5b65496a0da03c35cc3904d6e94487a4a31ce0"
+    },
+    {
+      "path": "lab7/paging_problem/src/utils/address_pool.cpp",
+      "bytes": 748,
+      "sha256": "d4a0b8b5fdbf2c1ae963937d45dac343797c92cda7310423196a5cbf6d5c811e"
+    },
+    {
+      "path": "lab7/paging_problem/src/utils/asm_utils.asm",
+      "bytes": 3782,
+      "sha256": "3bd7eacd1548341c4c0a8bdb177f8d0075a00f9bf059474ea0d75527fd09387f"
+    },
+    {
+      "path": "lab7/paging_problem/src/utils/bitmap.cpp",
+      "bytes": 2079,
+      "sha256": "4f7f98a0f748984905fb75d7d30adb48e5ceb1b164107aab91f93de82944c5b3"
+    },
+    {
+      "path": "lab7/paging_problem/src/utils/list.cpp",
+      "bytes": 4216,
+      "sha256": "bdca88b86acf2e6c677ad7896c2409068434aaca51855ddc885f1c2d275faceb"
+    },
+    {
+      "path": "lab7/paging_problem/src/utils/stdlib.cpp",
+      "bytes": 754,
+      "sha256": "ca10e4f8c2045d315efae72de5424f48033c1f2442d9769e832774a77bb588f0"
+    },
+    {
+      "path": "lab7/paging_task4/build/makefile",
+      "bytes": 2001,
+      "sha256": "b2158ebc8995d1f11dad8dbc05b951f34955afd386cd154feac29356ae82ab1c"
+    },
+    {
+      "path": "lab7/paging_task4/include/address_pool.h",
+      "bytes": 608,
+      "sha256": "e2021f9cac667ffc88ceba032dbcf859d9c2ff175627dfba69efb7ac97700b07"
+    },
+    {
+      "path": "lab7/paging_task4/include/asm_utils.h",
+      "bytes": 780,
+      "sha256": "4a5fe8322759dadee4e8fc3219a22c90fe835364d43e25af42d13c1b11efa8f7"
+    },
+    {
+      "path": "lab7/paging_task4/include/bitmap.h",
+      "bytes": 1056,
+      "sha256": "3bbcbe6ec74933b9212b9ba7d2bfc6f316d208c7315c1a419166aece6b0a30d1"
+    },
+    {
+      "path": "lab7/paging_task4/include/boot.inc",
+      "bytes": 731,
+      "sha256": "1b965efd000bef4e7c0b0aac75ccfccbfd0adf649fdb9548c4a6d06a7f5e01c0"
+    },
+    {
+      "path": "lab7/paging_task4/include/interrupt.h",
+      "bytes": 1317,
+      "sha256": "58c3545f42b33357533d5bdbb37fb8b372601120c970a33c6148a6d59326fbaf"
+    },
+    {
+      "path": "lab7/paging_task4/include/list.h",
+      "bytes": 644,
+      "sha256": "24d8642fa43812335cd73bfc63988fd7dcba51f5bfe9a67b92e3988b17cdcbbb"
+    },
+    {
+      "path": "lab7/paging_task4/include/memory.h",
+      "bytes": 2275,
+      "sha256": "1ffe659665aec0a3edc69597c4b797b8d5e50a284afdabc53f31ce7fbeb3a1ee"
+    },
+    {
+      "path": "lab7/paging_task4/include/os_constant.h",
+      "bytes": 582,
+      "sha256": "7efb2742a8b4738629a499b5f5a46d04dc2f9c1b561567b338a66351f9f33ac1"
+    },
+    {
+      "path": "lab7/paging_task4/include/os_modules.h",
+      "bytes": 408,
+      "sha256": "97a34d43f99c10badf865a0799c49d78a6304e41215ec07ddbe0a569c8995022"
+    },
+    {
+      "path": "lab7/paging_task4/include/os_type.h",
+      "bytes": 263,
+      "sha256": "96d9ad7b22b5da800e60919440dedcf34c443f92f3e3cba0c406d644035f9e5a"
+    },
+    {
+      "path": "lab7/paging_task4/include/program.h",
+      "bytes": 1400,
+      "sha256": "d6bb79db0e7c59ef976ee0861d5fddac00fd433768fedc26eed566e3cdc317ed"
+    },
+    {
+      "path": "lab7/paging_task4/include/setup.h",
+      "bytes": 72,
+      "sha256": "bc1808fa2f303e5127bd02860749ee621a6ce9f909bc570bf2195808db97e7e7"
+    },
+    {
+      "path": "lab7/paging_task4/include/stdarg.h",
+      "bytes": 337,
+      "sha256": "2de1d8dcf345e5dc5bb3115f9121b9d2a01b7ff8d09e111d151e7eb1de894596"
+    },
+    {
+      "path": "lab7/paging_task4/include/stdio.h",
+      "bytes": 767,
+      "sha256": "0fbe64b68164020c54f78730cb6c2d3f1f43f1dbe79f0dbc4a36d882c7e38192"
+    },
+    {
+      "path": "lab7/paging_task4/include/stdlib.h",
+      "bytes": 496,
+      "sha256": "4565388e9501de8ecaf9e17a60258525a9f77f8a1c1f3fd2f3c31cd54f019c26"
+    },
+    {
+      "path": "lab7/paging_task4/include/sync.h",
+      "bytes": 441,
+      "sha256": "f5704d60d33a97ad99035503371dbe9bbd16de53dc9ba57038054df4b89f3e74"
+    },
+    {
+      "path": "lab7/paging_task4/include/thread.h",
+      "bytes": 1239,
+      "sha256": "562a630380081f911eb527460b434f5eabd4004b880e2f32b36a59beaa5cc736"
+    },
+    {
+      "path": "lab7/paging_task4/run/gdbinit",
+      "bytes": 145,
+      "sha256": "86ed052781567b9cb29e0582dbece2aba510f3804d2af334e5df3edf62b3e507"
+    },
+    {
+      "path": "lab7/paging_task4/src/boot/bootloader.asm",
+      "bytes": 3387,
+      "sha256": "7801a0564da68b3b28a4951f6f3c416794634e632d7df97d666bbe1c1a09748a"
+    },
+    {
+      "path": "lab7/paging_task4/src/boot/entry.asm",
+      "bytes": 74,
+      "sha256": "e42fccf2ac155d3aae61d2de03a69fc80f92ae2bad1e30baaeec67e63ac5ca2a"
+    },
+    {
+      "path": "lab7/paging_task4/src/boot/mbr.asm",
+      "bytes": 1839,
+      "sha256": "b349a3c41e5bf5b2eea954eaeb2914cbf5e58e216058a5afac8c4bf3aaea00f1"
+    },
+    {
+      "path": "lab7/paging_task4/src/kernel/interrupt.cpp",
+      "bytes": 3534,
+      "sha256": "8f1284f9f22fa53744e35905317f5c74bb9b803633860d946293c9c9cb867db8"
+    },
+    {
+      "path": "lab7/paging_task4/src/kernel/memory.cpp",
+      "bytes": 19047,
+      "sha256": "e8b14905a75e2dd7ba1befb95ef3ccec2438d03081766cb72b7f213fa5989eac"
+    },
+    {
+      "path": "lab7/paging_task4/src/kernel/program.cpp",
+      "bytes": 10059,
+      "sha256": "d5b91d734d9d3cd6411f7af0dd45e13e92438f28d6d1e62cdb90d0bb12a1c45f"
+    },
+    {
+      "path": "lab7/paging_task4/src/kernel/setup.cpp",
+      "bytes": 3390,
+      "sha256": "8e3c04e0121892551265c45958910ea72063403aa6b85e2f5d6e3da5dc4aa4f2"
+    },
+    {
+      "path": "lab7/paging_task4/src/kernel/stdio.cpp",
+      "bytes": 4321,
+      "sha256": "5179fe3e889102f8022ccbba23f3540b827336e2a0ee888b7ff998039ffb25a5"
+    },
+    {
+      "path": "lab7/paging_task4/src/kernel/sync.cpp",
+      "bytes": 1327,
+      "sha256": "1b61b3233b6d2e0a7bcbbb03ab5b65496a0da03c35cc3904d6e94487a4a31ce0"
+    },
+    {
+      "path": "lab7/paging_task4/src/utils/address_pool.cpp",
+      "bytes": 978,
+      "sha256": "235609d805cb625fda3df967553e3e02b40bdc64417063200be37a7aa15fab4f"
+    },
+    {
+      "path": "lab7/paging_task4/src/utils/asm_utils.asm",
+      "bytes": 3782,
+      "sha256": "3bd7eacd1548341c4c0a8bdb177f8d0075a00f9bf059474ea0d75527fd09387f"
+    },
+    {
+      "path": "lab7/paging_task4/src/utils/bitmap.cpp",
+      "bytes": 2204,
+      "sha256": "e52d86a4f2da23c896a25db46364c0bbf1dcdeec651696f65d5e1f94acd027de"
+    },
+    {
+      "path": "lab7/paging_task4/src/utils/list.cpp",
+      "bytes": 4216,
+      "sha256": "bdca88b86acf2e6c677ad7896c2409068434aaca51855ddc885f1c2d275faceb"
+    },
+    {
+      "path": "lab7/paging_task4/src/utils/stdlib.cpp",
+      "bytes": 754,
+      "sha256": "ca10e4f8c2045d315efae72de5424f48033c1f2442d9769e832774a77bb588f0"
+    },
+    {
+      "path": "lab7/paging_task_2/build/makefile",
+      "bytes": 2001,
+      "sha256": "b2158ebc8995d1f11dad8dbc05b951f34955afd386cd154feac29356ae82ab1c"
+    },
+    {
+      "path": "lab7/paging_task_2/include/address_pool.h",
+      "bytes": 661,
+      "sha256": "af58f5fe57e1b63bb1a7f5812571d97aabeead59aeb2ae5f43a3c588f22a4494"
+    },
+    {
+      "path": "lab7/paging_task_2/include/asm_utils.h",
+      "bytes": 780,
+      "sha256": "4a5fe8322759dadee4e8fc3219a22c90fe835364d43e25af42d13c1b11efa8f7"
+    },
+    {
+      "path": "lab7/paging_task_2/include/bitmap.h",
+      "bytes": 1108,
+      "sha256": "f66ebc56bb27cf4fce12523039ead731633e778aa136ba5bb1ea12a303e589c7"
+    },
+    {
+      "path": "lab7/paging_task_2/include/boot.inc",
+      "bytes": 731,
+      "sha256": "1b965efd000bef4e7c0b0aac75ccfccbfd0adf649fdb9548c4a6d06a7f5e01c0"
+    },
+    {
+      "path": "lab7/paging_task_2/include/interrupt.h",
+      "bytes": 1317,
+      "sha256": "58c3545f42b33357533d5bdbb37fb8b372601120c970a33c6148a6d59326fbaf"
+    },
+    {
+      "path": "lab7/paging_task_2/include/list.h",
+      "bytes": 644,
+      "sha256": "24d8642fa43812335cd73bfc63988fd7dcba51f5bfe9a67b92e3988b17cdcbbb"
+    },
+    {
+      "path": "lab7/paging_task_2/include/memory.h",
+      "bytes": 1917,
+      "sha256": "e66cc41f4cca594140e341975e7ba7bfd6c257bc4eac2bc6a602854651a015eb"
+    },
+    {
+      "path": "lab7/paging_task_2/include/os_constant.h",
+      "bytes": 339,
+      "sha256": "4d2346ae37cee7f3ff03bb48f15ccae9bef43766cc023d9c4aeb417774be1ab0"
+    },
+    {
+      "path": "lab7/paging_task_2/include/os_modules.h",
+      "bytes": 379,
+      "sha256": "a6e3d0e982cd1964bb4e5246d0af3e3483db9b0b33ac1a3c8b497bceef48add1"
+    },
+    {
+      "path": "lab7/paging_task_2/include/os_type.h",
+      "bytes": 263,
+      "sha256": "96d9ad7b22b5da800e60919440dedcf34c443f92f3e3cba0c406d644035f9e5a"
+    },
+    {
+      "path": "lab7/paging_task_2/include/program.h",
+      "bytes": 1400,
+      "sha256": "d6bb79db0e7c59ef976ee0861d5fddac00fd433768fedc26eed566e3cdc317ed"
+    },
+    {
+      "path": "lab7/paging_task_2/include/setup.h",
+      "bytes": 72,
+      "sha256": "bc1808fa2f303e5127bd02860749ee621a6ce9f909bc570bf2195808db97e7e7"
+    },
+    {
+      "path": "lab7/paging_task_2/include/stdarg.h",
+      "bytes": 337,
+      "sha256": "2de1d8dcf345e5dc5bb3115f9121b9d2a01b7ff8d09e111d151e7eb1de894596"
+    },
+    {
+      "path": "lab7/paging_task_2/include/stdio.h",
+      "bytes": 767,
+      "sha256": "0fbe64b68164020c54f78730cb6c2d3f1f43f1dbe79f0dbc4a36d882c7e38192"
+    },
+    {
+      "path": "lab7/paging_task_2/include/stdlib.h",
+      "bytes": 496,
+      "sha256": "4565388e9501de8ecaf9e17a60258525a9f77f8a1c1f3fd2f3c31cd54f019c26"
+    },
+    {
+      "path": "lab7/paging_task_2/include/sync.h",
+      "bytes": 441,
+      "sha256": "f5704d60d33a97ad99035503371dbe9bbd16de53dc9ba57038054df4b89f3e74"
+    },
+    {
+      "path": "lab7/paging_task_2/include/thread.h",
+      "bytes": 1239,
+      "sha256": "562a630380081f911eb527460b434f5eabd4004b880e2f32b36a59beaa5cc736"
+    },
+    {
+      "path": "lab7/paging_task_2/run/gdbinit",
+      "bytes": 145,
+      "sha256": "86ed052781567b9cb29e0582dbece2aba510f3804d2af334e5df3edf62b3e507"
+    },
+    {
+      "path": "lab7/paging_task_2/src/boot/bootloader.asm",
+      "bytes": 3387,
+      "sha256": "7801a0564da68b3b28a4951f6f3c416794634e632d7df97d666bbe1c1a09748a"
+    },
+    {
+      "path": "lab7/paging_task_2/src/boot/entry.asm",
+      "bytes": 74,
+      "sha256": "e42fccf2ac155d3aae61d2de03a69fc80f92ae2bad1e30baaeec67e63ac5ca2a"
+    },
+    {
+      "path": "lab7/paging_task_2/src/boot/mbr.asm",
+      "bytes": 1839,
+      "sha256": "b349a3c41e5bf5b2eea954eaeb2914cbf5e58e216058a5afac8c4bf3aaea00f1"
+    },
+    {
+      "path": "lab7/paging_task_2/src/kernel/interrupt.cpp",
+      "bytes": 3534,
+      "sha256": "8f1284f9f22fa53744e35905317f5c74bb9b803633860d946293c9c9cb867db8"
+    },
+    {
+      "path": "lab7/paging_task_2/src/kernel/memory.cpp",
+      "bytes": 9913,
+      "sha256": "f3bd25a292bf1b3b23839508e1f0e5ccf1148f080a8f94915ba82eb17320a0f1"
+    },
+    {
+      "path": "lab7/paging_task_2/src/kernel/program.cpp",
+      "bytes": 10059,
+      "sha256": "d5b91d734d9d3cd6411f7af0dd45e13e92438f28d6d1e62cdb90d0bb12a1c45f"
+    },
+    {
+      "path": "lab7/paging_task_2/src/kernel/setup.cpp",
+      "bytes": 2940,
+      "sha256": "a9f04a183d506c9b30877f333f3629f957f729a45a104ecc58e05d52bf71fcac"
+    },
+    {
+      "path": "lab7/paging_task_2/src/kernel/stdio.cpp",
+      "bytes": 4321,
+      "sha256": "5179fe3e889102f8022ccbba23f3540b827336e2a0ee888b7ff998039ffb25a5"
+    },
+    {
+      "path": "lab7/paging_task_2/src/kernel/sync.cpp",
+      "bytes": 1327,
+      "sha256": "1b61b3233b6d2e0a7bcbbb03ab5b65496a0da03c35cc3904d6e94487a4a31ce0"
+    },
+    {
+      "path": "lab7/paging_task_2/src/utils/address_pool.cpp",
+      "bytes": 967,
+      "sha256": "b0a81ad85b00480ead00c49e77da509e02dfca6bf9aa45b36f60bd10e2d3e712"
+    },
+    {
+      "path": "lab7/paging_task_2/src/utils/asm_utils.asm",
+      "bytes": 3782,
+      "sha256": "3bd7eacd1548341c4c0a8bdb177f8d0075a00f9bf059474ea0d75527fd09387f"
+    },
+    {
+      "path": "lab7/paging_task_2/src/utils/bitmap.cpp",
+      "bytes": 3148,
+      "sha256": "852800e199f729e2a2701481fc3fcf9a71f4f3ab47ba8552660dc70c59b8ac9e"
+    },
+    {
+      "path": "lab7/paging_task_2/src/utils/list.cpp",
+      "bytes": 4216,
+      "sha256": "bdca88b86acf2e6c677ad7896c2409068434aaca51855ddc885f1c2d275faceb"
+    },
+    {
+      "path": "lab7/paging_task_2/src/utils/stdlib.cpp",
+      "bytes": 754,
+      "sha256": "ca10e4f8c2045d315efae72de5424f48033c1f2442d9769e832774a77bb588f0"
+    },
+    {
+      "path": "lab7/physical/build/makefile",
+      "bytes": 2001,
+      "sha256": "b2158ebc8995d1f11dad8dbc05b951f34955afd386cd154feac29356ae82ab1c"
+    },
+    {
+      "path": "lab7/physical/include/address_pool.h",
+      "bytes": 608,
+      "sha256": "e2021f9cac667ffc88ceba032dbcf859d9c2ff175627dfba69efb7ac97700b07"
+    },
+    {
+      "path": "lab7/physical/include/asm_utils.h",
+      "bytes": 728,
+      "sha256": "eef472b82109f0208421e8b811adf5787c3c629e05323936c167b09f1b4ec3f7"
+    },
+    {
+      "path": "lab7/physical/include/bitmap.h",
+      "bytes": 1056,
+      "sha256": "3bbcbe6ec74933b9212b9ba7d2bfc6f316d208c7315c1a419166aece6b0a30d1"
+    },
+    {
+      "path": "lab7/physical/include/boot.inc",
+      "bytes": 731,
+      "sha256": "1b965efd000bef4e7c0b0aac75ccfccbfd0adf649fdb9548c4a6d06a7f5e01c0"
+    },
+    {
+      "path": "lab7/physical/include/interrupt.h",
+      "bytes": 1317,
+      "sha256": "58c3545f42b33357533d5bdbb37fb8b372601120c970a33c6148a6d59326fbaf"
+    },
+    {
+      "path": "lab7/physical/include/list.h",
+      "bytes": 644,
+      "sha256": "24d8642fa43812335cd73bfc63988fd7dcba51f5bfe9a67b92e3988b17cdcbbb"
+    },
+    {
+      "path": "lab7/physical/include/memory.h",
+      "bytes": 812,
+      "sha256": "7044d7f527bd452fc3ee61946ced6067fb99eb4e20ccc0e4b2276d171a9bc935"
+    },
+    {
+      "path": "lab7/physical/include/os_constant.h",
+      "bytes": 266,
+      "sha256": "aec241f69053fec440b65f867634c88e12a766107ddd318ba9dacf91009a7c88"
+    },
+    {
+      "path": "lab7/physical/include/os_modules.h",
+      "bytes": 379,
+      "sha256": "a6e3d0e982cd1964bb4e5246d0af3e3483db9b0b33ac1a3c8b497bceef48add1"
+    },
+    {
+      "path": "lab7/physical/include/os_type.h",
+      "bytes": 263,
+      "sha256": "96d9ad7b22b5da800e60919440dedcf34c443f92f3e3cba0c406d644035f9e5a"
+    },
+    {
+      "path": "lab7/physical/include/program.h",
+      "bytes": 1400,
+      "sha256": "d6bb79db0e7c59ef976ee0861d5fddac00fd433768fedc26eed566e3cdc317ed"
+    },
+    {
+      "path": "lab7/physical/include/setup.h",
+      "bytes": 72,
+      "sha256": "bc1808fa2f303e5127bd02860749ee621a6ce9f909bc570bf2195808db97e7e7"
+    },
+    {
+      "path": "lab7/physical/include/stdarg.h",
+      "bytes": 337,
+      "sha256": "2de1d8dcf345e5dc5bb3115f9121b9d2a01b7ff8d09e111d151e7eb1de894596"
+    },
+    {
+      "path": "lab7/physical/include/stdio.h",
+      "bytes": 767,
+      "sha256": "0fbe64b68164020c54f78730cb6c2d3f1f43f1dbe79f0dbc4a36d882c7e38192"
+    },
+    {
+      "path": "lab7/physical/include/stdlib.h",
+      "bytes": 496,
+      "sha256": "4565388e9501de8ecaf9e17a60258525a9f77f8a1c1f3fd2f3c31cd54f019c26"
+    },
+    {
+      "path": "lab7/physical/include/sync.h",
+      "bytes": 441,
+      "sha256": "f5704d60d33a97ad99035503371dbe9bbd16de53dc9ba57038054df4b89f3e74"
+    },
+    {
+      "path": "lab7/physical/include/thread.h",
+      "bytes": 1239,
+      "sha256": "562a630380081f911eb527460b434f5eabd4004b880e2f32b36a59beaa5cc736"
+    },
+    {
+      "path": "lab7/physical/run/gdbinit",
+      "bytes": 145,
+      "sha256": "86ed052781567b9cb29e0582dbece2aba510f3804d2af334e5df3edf62b3e507"
+    },
+    {
+      "path": "lab7/physical/src/boot/bootloader.asm",
+      "bytes": 3387,
+      "sha256": "7801a0564da68b3b28a4951f6f3c416794634e632d7df97d666bbe1c1a09748a"
+    },
+    {
+      "path": "lab7/physical/src/boot/entry.asm",
+      "bytes": 74,
+      "sha256": "e42fccf2ac155d3aae61d2de03a69fc80f92ae2bad1e30baaeec67e63ac5ca2a"
+    },
+    {
+      "path": "lab7/physical/src/boot/mbr.asm",
+      "bytes": 1839,
+      "sha256": "b349a3c41e5bf5b2eea954eaeb2914cbf5e58e216058a5afac8c4bf3aaea00f1"
+    },
+    {
+      "path": "lab7/physical/src/kernel/interrupt.cpp",
+      "bytes": 3534,
+      "sha256": "8f1284f9f22fa53744e35905317f5c74bb9b803633860d946293c9c9cb867db8"
+    },
+    {
+      "path": "lab7/physical/src/kernel/memory.cpp",
+      "bytes": 3545,
+      "sha256": "450de0a9ab2268c46d7e4983fe54a6885f66760a8f7447a89ef9a7f044202613"
+    },
+    {
+      "path": "lab7/physical/src/kernel/program.cpp",
+      "bytes": 10059,
+      "sha256": "d5b91d734d9d3cd6411f7af0dd45e13e92438f28d6d1e62cdb90d0bb12a1c45f"
+    },
+    {
+      "path": "lab7/physical/src/kernel/setup.cpp",
+      "bytes": 7074,
+      "sha256": "6a33f1e8df6e2f9787026207305977266bacbc4cb3b9a9aeb22f224dd1d11871"
+    },
+    {
+      "path": "lab7/physical/src/kernel/stdio.cpp",
+      "bytes": 4321,
+      "sha256": "5179fe3e889102f8022ccbba23f3540b827336e2a0ee888b7ff998039ffb25a5"
+    },
+    {
+      "path": "lab7/physical/src/kernel/sync.cpp",
+      "bytes": 1327,
+      "sha256": "1b61b3233b6d2e0a7bcbbb03ab5b65496a0da03c35cc3904d6e94487a4a31ce0"
+    },
+    {
+      "path": "lab7/physical/src/utils/address_pool.cpp",
+      "bytes": 748,
+      "sha256": "d4a0b8b5fdbf2c1ae963937d45dac343797c92cda7310423196a5cbf6d5c811e"
+    },
+    {
+      "path": "lab7/physical/src/utils/asm_utils.asm",
+      "bytes": 3488,
+      "sha256": "a50e33d91d2178cebabbb6b7e24058e2f4da0e5c78b59bcf3541fee2a379d069"
+    },
+    {
+      "path": "lab7/physical/src/utils/bitmap.cpp",
+      "bytes": 2079,
+      "sha256": "4f7f98a0f748984905fb75d7d30adb48e5ceb1b164107aab91f93de82944c5b3"
+    },
+    {
+      "path": "lab7/physical/src/utils/list.cpp",
+      "bytes": 4216,
+      "sha256": "bdca88b86acf2e6c677ad7896c2409068434aaca51855ddc885f1c2d275faceb"
+    },
+    {
+      "path": "lab7/physical/src/utils/stdlib.cpp",
+      "bytes": 754,
+      "sha256": "ca10e4f8c2045d315efae72de5424f48033c1f2442d9769e832774a77bb588f0"
+    },
+    {
+      "path": "lab8/README.md",
+      "bytes": 79292,
+      "sha256": "696909a88f14e27f42a65238a1a174cb78cf421f28846cdcf4e6fbc3911b3bf2"
+    },
+    {
+      "path": "lab8/src/1/README.md",
+      "bytes": 185,
+      "sha256": "77e7a036fb1ade41c1ff1c8f7ce08df972ac4cdcc6f0a3b81430f2060c06e5d8"
+    },
+    {
+      "path": "lab8/src/1/build/makefile",
+      "bytes": 2035,
+      "sha256": "441313282cd757e359e2e9078177eec53615d495d83c982fb732e3028e3d4a58"
+    },
+    {
+      "path": "lab8/src/1/include/address_pool.h",
+      "bytes": 529,
+      "sha256": "450163217d3166ebcb3b9d603f031e44c9d808b3b08f685647a72187c90fc237"
+    },
+    {
+      "path": "lab8/src/1/include/asm_utils.h",
+      "bytes": 841,
+      "sha256": "b74561a5232ac45737bed3d0303ad2db2a2260b3a2bd8e1043a8ccd7d22c8e42"
+    },
+    {
+      "path": "lab8/src/1/include/bitmap.h",
+      "bytes": 1082,
+      "sha256": "7abdea536dcc60956b3cc7cf4d63531f3cc8562a6444a491668308d4cf42167e"
+    },
+    {
+      "path": "lab8/src/1/include/boot.inc",
+      "bytes": 677,
+      "sha256": "ca7e73b341ca3f02b3eea5eb8f337861cdbb7a7842bea1f1fbd9e6d3c39531ff"
+    },
+    {
+      "path": "lab8/src/1/include/interrupt.h",
+      "bytes": 1187,
+      "sha256": "dfe51f91145f90ec1fda9f87d8cd4685a4093894edb6c229bcfd23dc1c72e8c5"
+    },
+    {
+      "path": "lab8/src/1/include/list.h",
+      "bytes": 1172,
+      "sha256": "c4daee267b769777f1e4eefcf4032ca773a8ca1eef9fd41cdaf5698c494a89b6"
+    },
+    {
+      "path": "lab8/src/1/include/memory.h",
+      "bytes": 1763,
+      "sha256": "47c6492d5b806a7c3c2bcf808c3c5d92c4ff04a8392ce24ccc27e1dd10a7456c"
+    },
+    {
+      "path": "lab8/src/1/include/os_constant.h",
+      "bytes": 369,
+      "sha256": "12de1501ae8a93780f727eb92cce897156612a3949cb9cffbb707dc0f752b680"
+    },
+    {
+      "path": "lab8/src/1/include/os_modules.h",
+      "bytes": 327,
+      "sha256": "f8c838c4d149fed178f29b1255990840c3fdcb4a18938e41fd5806f9de8231e6"
+    },
+    {
+      "path": "lab8/src/1/include/os_type.h",
+      "bytes": 263,
+      "sha256": "96d9ad7b22b5da800e60919440dedcf34c443f92f3e3cba0c406d644035f9e5a"
+    },
+    {
+      "path": "lab8/src/1/include/program.h",
+      "bytes": 1076,
+      "sha256": "166c57f2d23ca9de55d2125a2da6eec16b7017bde7645b6cf64e30952383b7d5"
+    },
+    {
+      "path": "lab8/src/1/include/setup.h",
+      "bytes": 72,
+      "sha256": "bc1808fa2f303e5127bd02860749ee621a6ce9f909bc570bf2195808db97e7e7"
+    },
+    {
+      "path": "lab8/src/1/include/stdarg.h",
+      "bytes": 318,
+      "sha256": "ffeeac3637d33c51160ae55ab2fd485fda881e7078ef353bbdff916cb9e0f6b6"
+    },
+    {
+      "path": "lab8/src/1/include/stdio.h",
+      "bytes": 793,
+      "sha256": "c0fe485a052dbfd76da7db688c4fc1c75171c7293c4869a598524ad8c67bd07b"
+    },
+    {
+      "path": "lab8/src/1/include/stdlib.h",
+      "bytes": 561,
+      "sha256": "01668d19deae49be25a2ccf7acf3409db77dca5570b5585551b489e69a94cd98"
+    },
+    {
+      "path": "lab8/src/1/include/sync.h",
+      "bytes": 389,
+      "sha256": "534e81705dba02dbddd93778636e7a02d179b88e6de034e8d5bc26bd650087f8"
+    },
+    {
+      "path": "lab8/src/1/include/syscall.h",
+      "bytes": 397,
+      "sha256": "27d7f22456024c4fab5d25a9358359cdff4bfe00fb2828c7f4adcee39626fa8b"
+    },
+    {
+      "path": "lab8/src/1/include/thread.h",
+      "bytes": 761,
+      "sha256": "db01904e1f6e866a6d8c38c614610838ccd2d8e5adb95d8edc82e44cb9c08d93"
+    },
+    {
+      "path": "lab8/src/1/run/gdbinit",
+      "bytes": 127,
+      "sha256": "971092b5c5ce5854e496bb15ae5b068e6ddb07b0555e81b8e5c000861c7d8f21"
+    },
+    {
+      "path": "lab8/src/1/src/boot/bootloader.asm",
+      "bytes": 3387,
+      "sha256": "7801a0564da68b3b28a4951f6f3c416794634e632d7df97d666bbe1c1a09748a"
+    },
+    {
+      "path": "lab8/src/1/src/boot/entry.asm",
+      "bytes": 74,
+      "sha256": "e42fccf2ac155d3aae61d2de03a69fc80f92ae2bad1e30baaeec67e63ac5ca2a"
+    },
+    {
+      "path": "lab8/src/1/src/boot/mbr.asm",
+      "bytes": 1865,
+      "sha256": "009d75c2223e5ca807c1b4264a67002a31a8fddc17ec9c5f7f1bfec1510c7f45"
+    },
+    {
+      "path": "lab8/src/1/src/kernel/interrupt.cpp",
+      "bytes": 2659,
+      "sha256": "4f5d3d23a157a7ccae1c75ef9a9ad320f0fd2e6cd7da5c5c764a7bb231e00b73"
+    },
+    {
+      "path": "lab8/src/1/src/kernel/memory.cpp",
+      "bytes": 8189,
+      "sha256": "300cb7e064ba2ee18f1451a21d817002772f9d766e6562180de3d1aaa9c0f4e5"
+    },
+    {
+      "path": "lab8/src/1/src/kernel/program.cpp",
+      "bytes": 3874,
+      "sha256": "2f9dfa881187079de3c637abb1c1b656ca03e07a0b6b3aa23e27c4512cee2b7e"
+    },
+    {
+      "path": "lab8/src/1/src/kernel/setup.cpp",
+      "bytes": 2256,
+      "sha256": "2d46c80ca276e50b110de28fb85c98c8aae7da59e53d6d64d244d255e3cdb628"
+    },
+    {
+      "path": "lab8/src/1/src/kernel/stdio.cpp",
+      "bytes": 4349,
+      "sha256": "b7ce87f5df53b7956aa7cb97a390dcaef67f5eaf83d6fea21802f1133974caf9"
+    },
+    {
+      "path": "lab8/src/1/src/kernel/sync.cpp",
+      "bytes": 1332,
+      "sha256": "9742b800dcb4742d61a37091938507fcde7541daeb96b38e6eac5d0569047c22"
+    },
+    {
+      "path": "lab8/src/1/src/kernel/syscall.cpp",
+      "bytes": 660,
+      "sha256": "f43bb550ec732f3a5590757e1d5d9bfaf56a57eb6971590c1223e61cc171fcae"
+    },
+    {
+      "path": "lab8/src/1/src/utils/address_pool.cpp",
+      "bytes": 644,
+      "sha256": "7b2c3ac7b51899079f5c9c944676c5f37ed04c7fa36a2af6f0822792842cc53d"
+    },
+    {
+      "path": "lab8/src/1/src/utils/asm_utils.asm",
+      "bytes": 4892,
+      "sha256": "1a86b1bbec7c761dce026e7a6c4ccab2e5903c9a93f8a65530890676057ddff6"
+    },
+    {
+      "path": "lab8/src/1/src/utils/bitmap.cpp",
+      "bytes": 1847,
+      "sha256": "0ba747925bc162d60d0ee331d07eb666cfc6bbe3194c9115fcf55fdf3da5e3d9"
+    },
+    {
+      "path": "lab8/src/1/src/utils/list.cpp",
+      "bytes": 3055,
+      "sha256": "4c58137f3957c986ec310d20539ed12144152758699f8940c381b390e6cbc8e1"
+    },
+    {
+      "path": "lab8/src/1/src/utils/stdlib.cpp",
+      "bytes": 1024,
+      "sha256": "dafcdc1e57cd8d89326d8f558a3a18a057dc0708453c282745a6ca278969d083"
+    },
+    {
+      "path": "lab8/src/2/README.md",
+      "bytes": 185,
+      "sha256": "77e7a036fb1ade41c1ff1c8f7ce08df972ac4cdcc6f0a3b81430f2060c06e5d8"
+    },
+    {
+      "path": "lab8/src/2/build/makefile",
+      "bytes": 2278,
+      "sha256": "3ffc0f487689274734bc7f93a5bf15b7d0796affe846b95a7a34086aab8541f2"
+    },
+    {
+      "path": "lab8/src/2/include/address_pool.h",
+      "bytes": 529,
+      "sha256": "450163217d3166ebcb3b9d603f031e44c9d808b3b08f685647a72187c90fc237"
+    },
+    {
+      "path": "lab8/src/2/include/asm_utils.h",
+      "bytes": 841,
+      "sha256": "b74561a5232ac45737bed3d0303ad2db2a2260b3a2bd8e1043a8ccd7d22c8e42"
+    },
+    {
+      "path": "lab8/src/2/include/bitmap.h",
+      "bytes": 1082,
+      "sha256": "7abdea536dcc60956b3cc7cf4d63531f3cc8562a6444a491668308d4cf42167e"
+    },
+    {
+      "path": "lab8/src/2/include/boot.inc",
+      "bytes": 771,
+      "sha256": "78b91bb29d2e4896db3d04c87fbccddf3781c72c5b6ab44acc99f62a34f7fa16"
+    },
+    {
+      "path": "lab8/src/2/include/interrupt.h",
+      "bytes": 1187,
+      "sha256": "dfe51f91145f90ec1fda9f87d8cd4685a4093894edb6c229bcfd23dc1c72e8c5"
+    },
+    {
+      "path": "lab8/src/2/include/list.h",
+      "bytes": 1172,
+      "sha256": "c4daee267b769777f1e4eefcf4032ca773a8ca1eef9fd41cdaf5698c494a89b6"
+    },
+    {
+      "path": "lab8/src/2/include/memory.h",
+      "bytes": 1763,
+      "sha256": "47c6492d5b806a7c3c2bcf808c3c5d92c4ff04a8392ce24ccc27e1dd10a7456c"
+    },
+    {
+      "path": "lab8/src/2/include/os_constant.h",
+      "bytes": 380,
+      "sha256": "9347937f028a79f1eaf679d0f56087907d2338ee01cf21e0093cf82b81aa2600"
+    },
+    {
+      "path": "lab8/src/2/include/os_modules.h",
+      "bytes": 327,
+      "sha256": "f8c838c4d149fed178f29b1255990840c3fdcb4a18938e41fd5806f9de8231e6"
+    },
+    {
+      "path": "lab8/src/2/include/os_type.h",
+      "bytes": 263,
+      "sha256": "96d9ad7b22b5da800e60919440dedcf34c443f92f3e3cba0c406d644035f9e5a"
+    },
+    {
+      "path": "lab8/src/2/include/program.h",
+      "bytes": 1076,
+      "sha256": "166c57f2d23ca9de55d2125a2da6eec16b7017bde7645b6cf64e30952383b7d5"
+    },
+    {
+      "path": "lab8/src/2/include/setup.h",
+      "bytes": 72,
+      "sha256": "bc1808fa2f303e5127bd02860749ee621a6ce9f909bc570bf2195808db97e7e7"
+    },
+    {
+      "path": "lab8/src/2/include/stdarg.h",
+      "bytes": 318,
+      "sha256": "ffeeac3637d33c51160ae55ab2fd485fda881e7078ef353bbdff916cb9e0f6b6"
+    },
+    {
+      "path": "lab8/src/2/include/stdio.h",
+      "bytes": 793,
+      "sha256": "c0fe485a052dbfd76da7db688c4fc1c75171c7293c4869a598524ad8c67bd07b"
+    },
+    {
+      "path": "lab8/src/2/include/stdlib.h",
+      "bytes": 561,
+      "sha256": "01668d19deae49be25a2ccf7acf3409db77dca5570b5585551b489e69a94cd98"
+    },
+    {
+      "path": "lab8/src/2/include/sync.h",
+      "bytes": 389,
+      "sha256": "534e81705dba02dbddd93778636e7a02d179b88e6de034e8d5bc26bd650087f8"
+    },
+    {
+      "path": "lab8/src/2/include/syscall.h",
+      "bytes": 397,
+      "sha256": "27d7f22456024c4fab5d25a9358359cdff4bfe00fb2828c7f4adcee39626fa8b"
+    },
+    {
+      "path": "lab8/src/2/include/thread.h",
+      "bytes": 761,
+      "sha256": "db01904e1f6e866a6d8c38c614610838ccd2d8e5adb95d8edc82e44cb9c08d93"
+    },
+    {
+      "path": "lab8/src/2/run/gdbinit",
+      "bytes": 127,
+      "sha256": "971092b5c5ce5854e496bb15ae5b068e6ddb07b0555e81b8e5c000861c7d8f21"
+    },
+    {
+      "path": "lab8/src/2/src/boot/bootloader.asm",
+      "bytes": 3680,
+      "sha256": "dfcfeb66988f4e17691ed0a726054319e7c78cc39cd5bfef64006b8a9c0cd4ac"
+    },
+    {
+      "path": "lab8/src/2/src/boot/entry.asm",
+      "bytes": 74,
+      "sha256": "e42fccf2ac155d3aae61d2de03a69fc80f92ae2bad1e30baaeec67e63ac5ca2a"
+    },
+    {
+      "path": "lab8/src/2/src/boot/mbr.asm",
+      "bytes": 1865,
+      "sha256": "009d75c2223e5ca807c1b4264a67002a31a8fddc17ec9c5f7f1bfec1510c7f45"
+    },
+    {
+      "path": "lab8/src/2/src/boot/page.cpp",
+      "bytes": 925,
+      "sha256": "b4f3fa61bfbd24f4d5172c1f2d85aa3012a4980e0189d750aacf41f86c0768cc"
+    },
+    {
+      "path": "lab8/src/2/src/kernel/interrupt.cpp",
+      "bytes": 2659,
+      "sha256": "4f5d3d23a157a7ccae1c75ef9a9ad320f0fd2e6cd7da5c5c764a7bb231e00b73"
+    },
+    {
+      "path": "lab8/src/2/src/kernel/memory.cpp",
+      "bytes": 7248,
+      "sha256": "f770b8b2abe765d8097bf9d0c141277455d71c3b91ea24a4a45610d897856636"
+    },
+    {
+      "path": "lab8/src/2/src/kernel/program.cpp",
+      "bytes": 3874,
+      "sha256": "2f9dfa881187079de3c637abb1c1b656ca03e07a0b6b3aa23e27c4512cee2b7e"
+    },
+    {
+      "path": "lab8/src/2/src/kernel/setup.cpp",
+      "bytes": 2217,
+      "sha256": "ea3f3947e8e0d2447fcdc0d3564bc8ccd6962c32a841917c36d23ff66d9c1965"
+    },
+    {
+      "path": "lab8/src/2/src/kernel/stdio.cpp",
+      "bytes": 4352,
+      "sha256": "3c6bd0e752c74b11fa0f55204ce10499c37efda33d6eeac94fcb05b10670adf3"
+    },
+    {
+      "path": "lab8/src/2/src/kernel/sync.cpp",
+      "bytes": 1332,
+      "sha256": "9742b800dcb4742d61a37091938507fcde7541daeb96b38e6eac5d0569047c22"
+    },
+    {
+      "path": "lab8/src/2/src/kernel/syscall.cpp",
+      "bytes": 660,
+      "sha256": "f43bb550ec732f3a5590757e1d5d9bfaf56a57eb6971590c1223e61cc171fcae"
+    },
+    {
+      "path": "lab8/src/2/src/utils/address_pool.cpp",
+      "bytes": 644,
+      "sha256": "7b2c3ac7b51899079f5c9c944676c5f37ed04c7fa36a2af6f0822792842cc53d"
+    },
+    {
+      "path": "lab8/src/2/src/utils/asm_utils.asm",
+      "bytes": 4891,
+      "sha256": "b7f81e9f4e29d21f08c902d0f15ec9f1e5f9c16d41e3cc6982e9076934f60c84"
+    },
+    {
+      "path": "lab8/src/2/src/utils/bitmap.cpp",
+      "bytes": 1847,
+      "sha256": "0ba747925bc162d60d0ee331d07eb666cfc6bbe3194c9115fcf55fdf3da5e3d9"
+    },
+    {
+      "path": "lab8/src/2/src/utils/list.cpp",
+      "bytes": 3055,
+      "sha256": "4c58137f3957c986ec310d20539ed12144152758699f8940c381b390e6cbc8e1"
+    },
+    {
+      "path": "lab8/src/2/src/utils/stdlib.cpp",
+      "bytes": 1024,
+      "sha256": "dafcdc1e57cd8d89326d8f558a3a18a057dc0708453c282745a6ca278969d083"
+    },
+    {
+      "path": "lab8/src/3-changed/README.md",
+      "bytes": 185,
+      "sha256": "77e7a036fb1ade41c1ff1c8f7ce08df972ac4cdcc6f0a3b81430f2060c06e5d8"
+    },
+    {
+      "path": "lab8/src/3-changed/build/makefile",
+      "bytes": 2289,
+      "sha256": "0032cc96df66425be0a7371b2162a437a9c309bb777e31a25c0807bd28ce6c57"
+    },
+    {
+      "path": "lab8/src/3-changed/include/address_pool.h",
+      "bytes": 529,
+      "sha256": "450163217d3166ebcb3b9d603f031e44c9d808b3b08f685647a72187c90fc237"
+    },
+    {
+      "path": "lab8/src/3-changed/include/asm_utils.h",
+      "bytes": 1026,
+      "sha256": "2728137e6f4eb8cd61c839d636305da2624a2deb4395a26659bbae351775964c"
+    },
+    {
+      "path": "lab8/src/3-changed/include/bitmap.h",
+      "bytes": 1082,
+      "sha256": "7abdea536dcc60956b3cc7cf4d63531f3cc8562a6444a491668308d4cf42167e"
+    },
+    {
+      "path": "lab8/src/3-changed/include/boot.inc",
+      "bytes": 771,
+      "sha256": "78b91bb29d2e4896db3d04c87fbccddf3781c72c5b6ab44acc99f62a34f7fa16"
+    },
+    {
+      "path": "lab8/src/3-changed/include/interrupt.h",
+      "bytes": 1187,
+      "sha256": "dfe51f91145f90ec1fda9f87d8cd4685a4093894edb6c229bcfd23dc1c72e8c5"
+    },
+    {
+      "path": "lab8/src/3-changed/include/list.h",
+      "bytes": 1173,
+      "sha256": "ec3a8ec8e1c27611f61ba4ecbb26359a24b3487c694c7d5456263df41d7836b5"
+    },
+    {
+      "path": "lab8/src/3-changed/include/memory.h",
+      "bytes": 1763,
+      "sha256": "47c6492d5b806a7c3c2bcf808c3c5d92c4ff04a8392ce24ccc27e1dd10a7456c"
+    },
+    {
+      "path": "lab8/src/3-changed/include/os_constant.h",
+      "bytes": 653,
+      "sha256": "860051947cfc2f9d3ce0cc4021f72f75a227d89b5f047066706bfaba8a572031"
+    },
+    {
+      "path": "lab8/src/3-changed/include/os_modules.h",
+      "bytes": 360,
+      "sha256": "8df7b4a0e18017a8882fdac25dcfad01fa6238d62899de1a619ecccc6a0d84f8"
+    },
+    {
+      "path": "lab8/src/3-changed/include/os_type.h",
+      "bytes": 263,
+      "sha256": "96d9ad7b22b5da800e60919440dedcf34c443f92f3e3cba0c406d644035f9e5a"
+    },
+    {
+      "path": "lab8/src/3-changed/include/process.h",
+      "bytes": 304,
+      "sha256": "97a68b89bcd6d53112a4c4eb9c52855ecee19a6822cf0bbde3c90e095bae3b19"
+    },
+    {
+      "path": "lab8/src/3-changed/include/program.h",
+      "bytes": 1717,
+      "sha256": "481cd4ef8417abf8ff7e4d6172a99f2e23304a911819a88d42c62e850a8dea42"
+    },
+    {
+      "path": "lab8/src/3-changed/include/setup.h",
+      "bytes": 72,
+      "sha256": "bc1808fa2f303e5127bd02860749ee621a6ce9f909bc570bf2195808db97e7e7"
+    },
+    {
+      "path": "lab8/src/3-changed/include/stdarg.h",
+      "bytes": 318,
+      "sha256": "ffeeac3637d33c51160ae55ab2fd485fda881e7078ef353bbdff916cb9e0f6b6"
+    },
+    {
+      "path": "lab8/src/3-changed/include/stdio.h",
+      "bytes": 793,
+      "sha256": "c0fe485a052dbfd76da7db688c4fc1c75171c7293c4869a598524ad8c67bd07b"
+    },
+    {
+      "path": "lab8/src/3-changed/include/stdlib.h",
+      "bytes": 561,
+      "sha256": "01668d19deae49be25a2ccf7acf3409db77dca5570b5585551b489e69a94cd98"
+    },
+    {
+      "path": "lab8/src/3-changed/include/sync.h",
+      "bytes": 389,
+      "sha256": "534e81705dba02dbddd93778636e7a02d179b88e6de034e8d5bc26bd650087f8"
+    },
+    {
+      "path": "lab8/src/3-changed/include/syscall.h",
+      "bytes": 397,
+      "sha256": "27d7f22456024c4fab5d25a9358359cdff4bfe00fb2828c7f4adcee39626fa8b"
+    },
+    {
+      "path": "lab8/src/3-changed/include/thread.h",
+      "bytes": 903,
+      "sha256": "9e57b4ca4dda1ef4d7e7aae768ad95790e97ba6f21188d0a81c18147ba653828"
+    },
+    {
+      "path": "lab8/src/3-changed/include/tss.h",
+      "bytes": 419,
+      "sha256": "42c6ac93926fce2ed2403a2877daafbb72fa0b21aab76405b79420a91cb917fa"
+    },
+    {
+      "path": "lab8/src/3-changed/run/gdbinit",
+      "bytes": 117,
+      "sha256": "a753fa244a115ddb556717c327cf9d95ea4f3d497e72cc18dc482fc4f10332e9"
+    },
+    {
+      "path": "lab8/src/3-changed/src/boot/bootloader.asm",
+      "bytes": 3680,
+      "sha256": "dfcfeb66988f4e17691ed0a726054319e7c78cc39cd5bfef64006b8a9c0cd4ac"
+    },
+    {
+      "path": "lab8/src/3-changed/src/boot/entry.asm",
+      "bytes": 74,
+      "sha256": "e42fccf2ac155d3aae61d2de03a69fc80f92ae2bad1e30baaeec67e63ac5ca2a"
+    },
+    {
+      "path": "lab8/src/3-changed/src/boot/mbr.asm",
+      "bytes": 1865,
+      "sha256": "009d75c2223e5ca807c1b4264a67002a31a8fddc17ec9c5f7f1bfec1510c7f45"
+    },
+    {
+      "path": "lab8/src/3-changed/src/boot/page.cpp",
+      "bytes": 925,
+      "sha256": "b4f3fa61bfbd24f4d5172c1f2d85aa3012a4980e0189d750aacf41f86c0768cc"
+    },
+    {
+      "path": "lab8/src/3-changed/src/kernel/interrupt.cpp",
+      "bytes": 2659,
+      "sha256": "4f5d3d23a157a7ccae1c75ef9a9ad320f0fd2e6cd7da5c5c764a7bb231e00b73"
+    },
+    {
+      "path": "lab8/src/3-changed/src/kernel/memory.cpp",
+      "bytes": 7496,
+      "sha256": "6ceddb833a919d9b49e66013d1f9b9078ef4fc93499eda09b6da4bbc9b2571b0"
+    },
+    {
+      "path": "lab8/src/3-changed/src/kernel/program.cpp",
+      "bytes": 9467,
+      "sha256": "b9449bfe6c425f94d0fd639cf90e5fe68101fcda5f0cb67e223059690fbbacfc",
+      "originalSha256": "d6cc7496e282c644109107c2a10c21ba5305a37d40d3e4af08f7379729bae8bb"
+    },
+    {
+      "path": "lab8/src/3-changed/src/kernel/setup.cpp",
+      "bytes": 2073,
+      "sha256": "994a031c69d0eb7f4234814e8c47988873bbbb73b6dd19a4a0f0f30172f053b2"
+    },
+    {
+      "path": "lab8/src/3-changed/src/kernel/stdio.cpp",
+      "bytes": 4352,
+      "sha256": "3c6bd0e752c74b11fa0f55204ce10499c37efda33d6eeac94fcb05b10670adf3"
+    },
+    {
+      "path": "lab8/src/3-changed/src/kernel/sync.cpp",
+      "bytes": 1332,
+      "sha256": "9742b800dcb4742d61a37091938507fcde7541daeb96b38e6eac5d0569047c22"
+    },
+    {
+      "path": "lab8/src/3-changed/src/kernel/syscall.cpp",
+      "bytes": 660,
+      "sha256": "f43bb550ec732f3a5590757e1d5d9bfaf56a57eb6971590c1223e61cc171fcae"
+    },
+    {
+      "path": "lab8/src/3-changed/src/utils/address_pool.cpp",
+      "bytes": 644,
+      "sha256": "7b2c3ac7b51899079f5c9c944676c5f37ed04c7fa36a2af6f0822792842cc53d"
+    },
+    {
+      "path": "lab8/src/3-changed/src/utils/asm_utils.asm",
+      "bytes": 5874,
+      "sha256": "5b414057fa61facc593f10fbed85b9e71c404af9c9273c0d7e752f39d27b41b4"
+    },
+    {
+      "path": "lab8/src/3-changed/src/utils/bitmap.cpp",
+      "bytes": 1847,
+      "sha256": "0ba747925bc162d60d0ee331d07eb666cfc6bbe3194c9115fcf55fdf3da5e3d9"
+    },
+    {
+      "path": "lab8/src/3-changed/src/utils/list.cpp",
+      "bytes": 3055,
+      "sha256": "4c58137f3957c986ec310d20539ed12144152758699f8940c381b390e6cbc8e1"
+    },
+    {
+      "path": "lab8/src/3-changed/src/utils/stdlib.cpp",
+      "bytes": 1024,
+      "sha256": "dafcdc1e57cd8d89326d8f558a3a18a057dc0708453c282745a6ca278969d083"
+    },
+    {
+      "path": "lab8/src/4/README.md",
+      "bytes": 185,
+      "sha256": "77e7a036fb1ade41c1ff1c8f7ce08df972ac4cdcc6f0a3b81430f2060c06e5d8"
+    },
+    {
+      "path": "lab8/src/4/build/makefile",
+      "bytes": 2289,
+      "sha256": "0032cc96df66425be0a7371b2162a437a9c309bb777e31a25c0807bd28ce6c57"
+    },
+    {
+      "path": "lab8/src/4/include/address_pool.h",
+      "bytes": 529,
+      "sha256": "450163217d3166ebcb3b9d603f031e44c9d808b3b08f685647a72187c90fc237"
+    },
+    {
+      "path": "lab8/src/4/include/asm_utils.h",
+      "bytes": 1026,
+      "sha256": "2728137e6f4eb8cd61c839d636305da2624a2deb4395a26659bbae351775964c"
+    },
+    {
+      "path": "lab8/src/4/include/bitmap.h",
+      "bytes": 1082,
+      "sha256": "7abdea536dcc60956b3cc7cf4d63531f3cc8562a6444a491668308d4cf42167e"
+    },
+    {
+      "path": "lab8/src/4/include/boot.inc",
+      "bytes": 771,
+      "sha256": "78b91bb29d2e4896db3d04c87fbccddf3781c72c5b6ab44acc99f62a34f7fa16"
+    },
+    {
+      "path": "lab8/src/4/include/interrupt.h",
+      "bytes": 1187,
+      "sha256": "dfe51f91145f90ec1fda9f87d8cd4685a4093894edb6c229bcfd23dc1c72e8c5"
+    },
+    {
+      "path": "lab8/src/4/include/list.h",
+      "bytes": 1172,
+      "sha256": "c4daee267b769777f1e4eefcf4032ca773a8ca1eef9fd41cdaf5698c494a89b6"
+    },
+    {
+      "path": "lab8/src/4/include/memory.h",
+      "bytes": 1763,
+      "sha256": "47c6492d5b806a7c3c2bcf808c3c5d92c4ff04a8392ce24ccc27e1dd10a7456c"
+    },
+    {
+      "path": "lab8/src/4/include/os_constant.h",
+      "bytes": 653,
+      "sha256": "860051947cfc2f9d3ce0cc4021f72f75a227d89b5f047066706bfaba8a572031"
+    },
+    {
+      "path": "lab8/src/4/include/os_modules.h",
+      "bytes": 360,
+      "sha256": "8df7b4a0e18017a8882fdac25dcfad01fa6238d62899de1a619ecccc6a0d84f8"
+    },
+    {
+      "path": "lab8/src/4/include/os_type.h",
+      "bytes": 263,
+      "sha256": "96d9ad7b22b5da800e60919440dedcf34c443f92f3e3cba0c406d644035f9e5a"
+    },
+    {
+      "path": "lab8/src/4/include/process.h",
+      "bytes": 304,
+      "sha256": "97a68b89bcd6d53112a4c4eb9c52855ecee19a6822cf0bbde3c90e095bae3b19"
+    },
+    {
+      "path": "lab8/src/4/include/program.h",
+      "bytes": 1787,
+      "sha256": "b74b7d3a1c3f268db92a4a7c3aece5b22bd767e5279092f277645736b05b9346"
+    },
+    {
+      "path": "lab8/src/4/include/setup.h",
+      "bytes": 72,
+      "sha256": "bc1808fa2f303e5127bd02860749ee621a6ce9f909bc570bf2195808db97e7e7"
+    },
+    {
+      "path": "lab8/src/4/include/stdarg.h",
+      "bytes": 318,
+      "sha256": "ffeeac3637d33c51160ae55ab2fd485fda881e7078ef353bbdff916cb9e0f6b6"
+    },
+    {
+      "path": "lab8/src/4/include/stdio.h",
+      "bytes": 793,
+      "sha256": "c0fe485a052dbfd76da7db688c4fc1c75171c7293c4869a598524ad8c67bd07b"
+    },
+    {
+      "path": "lab8/src/4/include/stdlib.h",
+      "bytes": 735,
+      "sha256": "6f09b88c596fd1205dcab000e538f4ea20d99a252ad8367ecbeecae2f31da506"
+    },
+    {
+      "path": "lab8/src/4/include/sync.h",
+      "bytes": 389,
+      "sha256": "534e81705dba02dbddd93778636e7a02d179b88e6de034e8d5bc26bd650087f8"
+    },
+    {
+      "path": "lab8/src/4/include/syscall.h",
+      "bytes": 554,
+      "sha256": "69c8c6a7a5eaae76d2b65669429e5e712e37f9c2d87441aa0e18700a0ac21315"
+    },
+    {
+      "path": "lab8/src/4/include/thread.h",
+      "bytes": 947,
+      "sha256": "e76e24c0ed4c9e633e0f7b310bab86e6fc7c077479754dd632f75995323e11e5"
+    },
+    {
+      "path": "lab8/src/4/include/tss.h",
+      "bytes": 419,
+      "sha256": "42c6ac93926fce2ed2403a2877daafbb72fa0b21aab76405b79420a91cb917fa"
+    },
+    {
+      "path": "lab8/src/4/run/gdbinit",
+      "bytes": 185,
+      "sha256": "800cc2ddc3e47334fbd4bda92101f7ef726f11c8c5ed494c5c179c1cdd630959"
+    },
+    {
+      "path": "lab8/src/4/src/boot/bootloader.asm",
+      "bytes": 3680,
+      "sha256": "dfcfeb66988f4e17691ed0a726054319e7c78cc39cd5bfef64006b8a9c0cd4ac"
+    },
+    {
+      "path": "lab8/src/4/src/boot/entry.asm",
+      "bytes": 74,
+      "sha256": "e42fccf2ac155d3aae61d2de03a69fc80f92ae2bad1e30baaeec67e63ac5ca2a"
+    },
+    {
+      "path": "lab8/src/4/src/boot/mbr.asm",
+      "bytes": 1865,
+      "sha256": "009d75c2223e5ca807c1b4264a67002a31a8fddc17ec9c5f7f1bfec1510c7f45"
+    },
+    {
+      "path": "lab8/src/4/src/boot/page.cpp",
+      "bytes": 925,
+      "sha256": "b4f3fa61bfbd24f4d5172c1f2d85aa3012a4980e0189d750aacf41f86c0768cc"
+    },
+    {
+      "path": "lab8/src/4/src/kernel/interrupt.cpp",
+      "bytes": 2659,
+      "sha256": "4f5d3d23a157a7ccae1c75ef9a9ad320f0fd2e6cd7da5c5c764a7bb231e00b73"
+    },
+    {
+      "path": "lab8/src/4/src/kernel/memory.cpp",
+      "bytes": 7496,
+      "sha256": "6ceddb833a919d9b49e66013d1f9b9078ef4fc93499eda09b6da4bbc9b2571b0"
+    },
+    {
+      "path": "lab8/src/4/src/kernel/program.cpp",
+      "bytes": 14643,
+      "sha256": "1cdaa7f0d44d4860b0214573e20bd31ab817fe13b327874b3661704b87671160"
+    },
+    {
+      "path": "lab8/src/4/src/kernel/setup.cpp",
+      "bytes": 2422,
+      "sha256": "a262c6c81078c2dd6c944507092efd25483068c66b6e6b72d3b2c67bcd95ee01"
+    },
+    {
+      "path": "lab8/src/4/src/kernel/stdio.cpp",
+      "bytes": 4328,
+      "sha256": "003b966cdccf76288af291facaee819886df7d08d980ef11fc63dd5cba69fb92"
+    },
+    {
+      "path": "lab8/src/4/src/kernel/sync.cpp",
+      "bytes": 1332,
+      "sha256": "9742b800dcb4742d61a37091938507fcde7541daeb96b38e6eac5d0569047c22"
+    },
+    {
+      "path": "lab8/src/4/src/kernel/syscall.cpp",
+      "bytes": 926,
+      "sha256": "70420aec97d831a4e229c5942fa9f68155201a1c427b000f75ff47660325cb81"
+    },
+    {
+      "path": "lab8/src/4/src/utils/address_pool.cpp",
+      "bytes": 644,
+      "sha256": "7b2c3ac7b51899079f5c9c944676c5f37ed04c7fa36a2af6f0822792842cc53d"
+    },
+    {
+      "path": "lab8/src/4/src/utils/asm_utils.asm",
+      "bytes": 5874,
+      "sha256": "5b414057fa61facc593f10fbed85b9e71c404af9c9273c0d7e752f39d27b41b4"
+    },
+    {
+      "path": "lab8/src/4/src/utils/bitmap.cpp",
+      "bytes": 1847,
+      "sha256": "0ba747925bc162d60d0ee331d07eb666cfc6bbe3194c9115fcf55fdf3da5e3d9"
+    },
+    {
+      "path": "lab8/src/4/src/utils/list.cpp",
+      "bytes": 3055,
+      "sha256": "4c58137f3957c986ec310d20539ed12144152758699f8940c381b390e6cbc8e1"
+    },
+    {
+      "path": "lab8/src/4/src/utils/stdlib.cpp",
+      "bytes": 1332,
+      "sha256": "96358da9cf526058be13de2cf8922b5f97771e8921fe59cd274667fc71a7e348"
+    },
+    {
+      "path": "lab8/src/5/README.md",
+      "bytes": 185,
+      "sha256": "77e7a036fb1ade41c1ff1c8f7ce08df972ac4cdcc6f0a3b81430f2060c06e5d8"
+    },
+    {
+      "path": "lab8/src/5/build/makefile",
+      "bytes": 2289,
+      "sha256": "0032cc96df66425be0a7371b2162a437a9c309bb777e31a25c0807bd28ce6c57"
+    },
+    {
+      "path": "lab8/src/5/include/address_pool.h",
+      "bytes": 529,
+      "sha256": "450163217d3166ebcb3b9d603f031e44c9d808b3b08f685647a72187c90fc237"
+    },
+    {
+      "path": "lab8/src/5/include/asm_utils.h",
+      "bytes": 1026,
+      "sha256": "2728137e6f4eb8cd61c839d636305da2624a2deb4395a26659bbae351775964c"
+    },
+    {
+      "path": "lab8/src/5/include/bitmap.h",
+      "bytes": 1082,
+      "sha256": "7abdea536dcc60956b3cc7cf4d63531f3cc8562a6444a491668308d4cf42167e"
+    },
+    {
+      "path": "lab8/src/5/include/boot.inc",
+      "bytes": 771,
+      "sha256": "78b91bb29d2e4896db3d04c87fbccddf3781c72c5b6ab44acc99f62a34f7fa16"
+    },
+    {
+      "path": "lab8/src/5/include/interrupt.h",
+      "bytes": 1187,
+      "sha256": "dfe51f91145f90ec1fda9f87d8cd4685a4093894edb6c229bcfd23dc1c72e8c5"
+    },
+    {
+      "path": "lab8/src/5/include/list.h",
+      "bytes": 1172,
+      "sha256": "c4daee267b769777f1e4eefcf4032ca773a8ca1eef9fd41cdaf5698c494a89b6"
+    },
+    {
+      "path": "lab8/src/5/include/memory.h",
+      "bytes": 1763,
+      "sha256": "47c6492d5b806a7c3c2bcf808c3c5d92c4ff04a8392ce24ccc27e1dd10a7456c"
+    },
+    {
+      "path": "lab8/src/5/include/os_constant.h",
+      "bytes": 653,
+      "sha256": "860051947cfc2f9d3ce0cc4021f72f75a227d89b5f047066706bfaba8a572031"
+    },
+    {
+      "path": "lab8/src/5/include/os_modules.h",
+      "bytes": 360,
+      "sha256": "8df7b4a0e18017a8882fdac25dcfad01fa6238d62899de1a619ecccc6a0d84f8"
+    },
+    {
+      "path": "lab8/src/5/include/os_type.h",
+      "bytes": 263,
+      "sha256": "96d9ad7b22b5da800e60919440dedcf34c443f92f3e3cba0c406d644035f9e5a"
+    },
+    {
+      "path": "lab8/src/5/include/process.h",
+      "bytes": 304,
+      "sha256": "97a68b89bcd6d53112a4c4eb9c52855ecee19a6822cf0bbde3c90e095bae3b19"
+    },
+    {
+      "path": "lab8/src/5/include/program.h",
+      "bytes": 1832,
+      "sha256": "49d17a76d002bc89ba13c6b2b4bd1a16057b6d4306153c3131b442e40b6da734"
+    },
+    {
+      "path": "lab8/src/5/include/setup.h",
+      "bytes": 72,
+      "sha256": "bc1808fa2f303e5127bd02860749ee621a6ce9f909bc570bf2195808db97e7e7"
+    },
+    {
+      "path": "lab8/src/5/include/stdarg.h",
+      "bytes": 318,
+      "sha256": "ffeeac3637d33c51160ae55ab2fd485fda881e7078ef353bbdff916cb9e0f6b6"
+    },
+    {
+      "path": "lab8/src/5/include/stdio.h",
+      "bytes": 793,
+      "sha256": "c0fe485a052dbfd76da7db688c4fc1c75171c7293c4869a598524ad8c67bd07b"
+    },
+    {
+      "path": "lab8/src/5/include/stdlib.h",
+      "bytes": 735,
+      "sha256": "6f09b88c596fd1205dcab000e538f4ea20d99a252ad8367ecbeecae2f31da506"
+    },
+    {
+      "path": "lab8/src/5/include/sync.h",
+      "bytes": 389,
+      "sha256": "534e81705dba02dbddd93778636e7a02d179b88e6de034e8d5bc26bd650087f8"
+    },
+    {
+      "path": "lab8/src/5/include/syscall.h",
+      "bytes": 632,
+      "sha256": "f99c5cbd19292d57398a6b6d44652b5087c9831813562ee568e5c9c5c88706cd"
+    },
+    {
+      "path": "lab8/src/5/include/thread.h",
+      "bytes": 990,
+      "sha256": "950a1dcf084e3a03a8a37caebe6fb3fd06a8d8bbb2f414fe8fec0e4547df3d35"
+    },
+    {
+      "path": "lab8/src/5/include/tss.h",
+      "bytes": 419,
+      "sha256": "42c6ac93926fce2ed2403a2877daafbb72fa0b21aab76405b79420a91cb917fa"
+    },
+    {
+      "path": "lab8/src/5/run/gdbinit",
+      "bytes": 70,
+      "sha256": "7b7fafdd7ca09b3bb6f7182476f39114e8001cf1bd30b59864ec635b350bb0b0"
+    },
+    {
+      "path": "lab8/src/5/src/boot/bootloader.asm",
+      "bytes": 3680,
+      "sha256": "dfcfeb66988f4e17691ed0a726054319e7c78cc39cd5bfef64006b8a9c0cd4ac"
+    },
+    {
+      "path": "lab8/src/5/src/boot/entry.asm",
+      "bytes": 74,
+      "sha256": "e42fccf2ac155d3aae61d2de03a69fc80f92ae2bad1e30baaeec67e63ac5ca2a"
+    },
+    {
+      "path": "lab8/src/5/src/boot/mbr.asm",
+      "bytes": 1865,
+      "sha256": "009d75c2223e5ca807c1b4264a67002a31a8fddc17ec9c5f7f1bfec1510c7f45"
+    },
+    {
+      "path": "lab8/src/5/src/boot/page.cpp",
+      "bytes": 925,
+      "sha256": "b4f3fa61bfbd24f4d5172c1f2d85aa3012a4980e0189d750aacf41f86c0768cc"
+    },
+    {
+      "path": "lab8/src/5/src/kernel/interrupt.cpp",
+      "bytes": 2659,
+      "sha256": "4f5d3d23a157a7ccae1c75ef9a9ad320f0fd2e6cd7da5c5c764a7bb231e00b73"
+    },
+    {
+      "path": "lab8/src/5/src/kernel/memory.cpp",
+      "bytes": 7496,
+      "sha256": "6ceddb833a919d9b49e66013d1f9b9078ef4fc93499eda09b6da4bbc9b2571b0"
+    },
+    {
+      "path": "lab8/src/5/src/kernel/program.cpp",
+      "bytes": 16157,
+      "sha256": "b1b292ea02df24bbdf24b81e9148b4c52dde1d08af4ed95685855320731620d0"
+    },
+    {
+      "path": "lab8/src/5/src/kernel/setup.cpp",
+      "bytes": 2603,
+      "sha256": "7fb0345bda63b759a376e3b5ced29650942d94896b7a157c3d43aae087fb84d6"
+    },
+    {
+      "path": "lab8/src/5/src/kernel/stdio.cpp",
+      "bytes": 4328,
+      "sha256": "003b966cdccf76288af291facaee819886df7d08d980ef11fc63dd5cba69fb92"
+    },
+    {
+      "path": "lab8/src/5/src/kernel/sync.cpp",
+      "bytes": 1332,
+      "sha256": "9742b800dcb4742d61a37091938507fcde7541daeb96b38e6eac5d0569047c22"
+    },
+    {
+      "path": "lab8/src/5/src/kernel/syscall.cpp",
+      "bytes": 1041,
+      "sha256": "1f217451947f68c00b9636eb9871c67600fbc679804275f64b6f63a551f24bb2"
+    },
+    {
+      "path": "lab8/src/5/src/utils/address_pool.cpp",
+      "bytes": 644,
+      "sha256": "7b2c3ac7b51899079f5c9c944676c5f37ed04c7fa36a2af6f0822792842cc53d"
+    },
+    {
+      "path": "lab8/src/5/src/utils/asm_utils.asm",
+      "bytes": 5874,
+      "sha256": "5b414057fa61facc593f10fbed85b9e71c404af9c9273c0d7e752f39d27b41b4"
+    },
+    {
+      "path": "lab8/src/5/src/utils/bitmap.cpp",
+      "bytes": 1847,
+      "sha256": "0ba747925bc162d60d0ee331d07eb666cfc6bbe3194c9115fcf55fdf3da5e3d9"
+    },
+    {
+      "path": "lab8/src/5/src/utils/list.cpp",
+      "bytes": 3055,
+      "sha256": "4c58137f3957c986ec310d20539ed12144152758699f8940c381b390e6cbc8e1"
+    },
+    {
+      "path": "lab8/src/5/src/utils/stdlib.cpp",
+      "bytes": 1332,
+      "sha256": "96358da9cf526058be13de2cf8922b5f97771e8921fe59cd274667fc71a7e348"
+    },
+    {
+      "path": "lab8/src/6-changed/README.md",
+      "bytes": 185,
+      "sha256": "77e7a036fb1ade41c1ff1c8f7ce08df972ac4cdcc6f0a3b81430f2060c06e5d8"
+    },
+    {
+      "path": "lab8/src/6-changed/build/makefile",
+      "bytes": 2289,
+      "sha256": "0032cc96df66425be0a7371b2162a437a9c309bb777e31a25c0807bd28ce6c57"
+    },
+    {
+      "path": "lab8/src/6-changed/include/address_pool.h",
+      "bytes": 529,
+      "sha256": "450163217d3166ebcb3b9d603f031e44c9d808b3b08f685647a72187c90fc237"
+    },
+    {
+      "path": "lab8/src/6-changed/include/asm_utils.h",
+      "bytes": 1026,
+      "sha256": "2728137e6f4eb8cd61c839d636305da2624a2deb4395a26659bbae351775964c"
+    },
+    {
+      "path": "lab8/src/6-changed/include/bitmap.h",
+      "bytes": 1082,
+      "sha256": "7abdea536dcc60956b3cc7cf4d63531f3cc8562a6444a491668308d4cf42167e"
+    },
+    {
+      "path": "lab8/src/6-changed/include/boot.inc",
+      "bytes": 771,
+      "sha256": "78b91bb29d2e4896db3d04c87fbccddf3781c72c5b6ab44acc99f62a34f7fa16"
+    },
+    {
+      "path": "lab8/src/6-changed/include/interrupt.h",
+      "bytes": 1187,
+      "sha256": "dfe51f91145f90ec1fda9f87d8cd4685a4093894edb6c229bcfd23dc1c72e8c5"
+    },
+    {
+      "path": "lab8/src/6-changed/include/list.h",
+      "bytes": 1172,
+      "sha256": "c4daee267b769777f1e4eefcf4032ca773a8ca1eef9fd41cdaf5698c494a89b6"
+    },
+    {
+      "path": "lab8/src/6-changed/include/memory.h",
+      "bytes": 1763,
+      "sha256": "47c6492d5b806a7c3c2bcf808c3c5d92c4ff04a8392ce24ccc27e1dd10a7456c"
+    },
+    {
+      "path": "lab8/src/6-changed/include/os_constant.h",
+      "bytes": 653,
+      "sha256": "860051947cfc2f9d3ce0cc4021f72f75a227d89b5f047066706bfaba8a572031"
+    },
+    {
+      "path": "lab8/src/6-changed/include/os_modules.h",
+      "bytes": 360,
+      "sha256": "8df7b4a0e18017a8882fdac25dcfad01fa6238d62899de1a619ecccc6a0d84f8"
+    },
+    {
+      "path": "lab8/src/6-changed/include/os_type.h",
+      "bytes": 263,
+      "sha256": "96d9ad7b22b5da800e60919440dedcf34c443f92f3e3cba0c406d644035f9e5a"
+    },
+    {
+      "path": "lab8/src/6-changed/include/process.h",
+      "bytes": 304,
+      "sha256": "97a68b89bcd6d53112a4c4eb9c52855ecee19a6822cf0bbde3c90e095bae3b19"
+    },
+    {
+      "path": "lab8/src/6-changed/include/program.h",
+      "bytes": 1902,
+      "sha256": "7861666fe9100edca3457fbfe4b9cb5e8c75a1f9e4cca8d2ef3f402e3bb97f22"
+    },
+    {
+      "path": "lab8/src/6-changed/include/setup.h",
+      "bytes": 72,
+      "sha256": "bc1808fa2f303e5127bd02860749ee621a6ce9f909bc570bf2195808db97e7e7"
+    },
+    {
+      "path": "lab8/src/6-changed/include/stdarg.h",
+      "bytes": 318,
+      "sha256": "ffeeac3637d33c51160ae55ab2fd485fda881e7078ef353bbdff916cb9e0f6b6"
+    },
+    {
+      "path": "lab8/src/6-changed/include/stdio.h",
+      "bytes": 793,
+      "sha256": "c0fe485a052dbfd76da7db688c4fc1c75171c7293c4869a598524ad8c67bd07b"
+    },
+    {
+      "path": "lab8/src/6-changed/include/stdlib.h",
+      "bytes": 735,
+      "sha256": "6f09b88c596fd1205dcab000e538f4ea20d99a252ad8367ecbeecae2f31da506"
+    },
+    {
+      "path": "lab8/src/6-changed/include/sync.h",
+      "bytes": 389,
+      "sha256": "534e81705dba02dbddd93778636e7a02d179b88e6de034e8d5bc26bd650087f8"
+    },
+    {
+      "path": "lab8/src/6-changed/include/syscall.h",
+      "bytes": 716,
+      "sha256": "36f07fa06936519e4ec723186c16e71a4bdc7f563dc44443c11980b5220dc53e"
+    },
+    {
+      "path": "lab8/src/6-changed/include/thread.h",
+      "bytes": 990,
+      "sha256": "950a1dcf084e3a03a8a37caebe6fb3fd06a8d8bbb2f414fe8fec0e4547df3d35"
+    },
+    {
+      "path": "lab8/src/6-changed/include/tss.h",
+      "bytes": 419,
+      "sha256": "42c6ac93926fce2ed2403a2877daafbb72fa0b21aab76405b79420a91cb917fa"
+    },
+    {
+      "path": "lab8/src/6-changed/run/gdbinit",
+      "bytes": 70,
+      "sha256": "7b7fafdd7ca09b3bb6f7182476f39114e8001cf1bd30b59864ec635b350bb0b0"
+    },
+    {
+      "path": "lab8/src/6-changed/src/boot/bootloader.asm",
+      "bytes": 3680,
+      "sha256": "dfcfeb66988f4e17691ed0a726054319e7c78cc39cd5bfef64006b8a9c0cd4ac"
+    },
+    {
+      "path": "lab8/src/6-changed/src/boot/entry.asm",
+      "bytes": 74,
+      "sha256": "e42fccf2ac155d3aae61d2de03a69fc80f92ae2bad1e30baaeec67e63ac5ca2a"
+    },
+    {
+      "path": "lab8/src/6-changed/src/boot/mbr.asm",
+      "bytes": 1865,
+      "sha256": "009d75c2223e5ca807c1b4264a67002a31a8fddc17ec9c5f7f1bfec1510c7f45"
+    },
+    {
+      "path": "lab8/src/6-changed/src/boot/page.cpp",
+      "bytes": 925,
+      "sha256": "b4f3fa61bfbd24f4d5172c1f2d85aa3012a4980e0189d750aacf41f86c0768cc"
+    },
+    {
+      "path": "lab8/src/6-changed/src/kernel/interrupt.cpp",
+      "bytes": 2659,
+      "sha256": "4f5d3d23a157a7ccae1c75ef9a9ad320f0fd2e6cd7da5c5c764a7bb231e00b73"
+    },
+    {
+      "path": "lab8/src/6-changed/src/kernel/memory.cpp",
+      "bytes": 7496,
+      "sha256": "6ceddb833a919d9b49e66013d1f9b9078ef4fc93499eda09b6da4bbc9b2571b0"
+    },
+    {
+      "path": "lab8/src/6-changed/src/kernel/program.cpp",
+      "bytes": 17978,
+      "sha256": "5842dac1f8275d27e4513f864c54d3581779fe1fcbc95d5a340a620af67c0f71"
+    },
+    {
+      "path": "lab8/src/6-changed/src/kernel/setup.cpp",
+      "bytes": 3615,
+      "sha256": "58f23bffd51382fdc096da4b7fb5cbde6d8649c0f33ad679fb6a71e44766d84a"
+    },
+    {
+      "path": "lab8/src/6-changed/src/kernel/stdio.cpp",
+      "bytes": 4328,
+      "sha256": "003b966cdccf76288af291facaee819886df7d08d980ef11fc63dd5cba69fb92"
+    },
+    {
+      "path": "lab8/src/6-changed/src/kernel/sync.cpp",
+      "bytes": 1332,
+      "sha256": "9742b800dcb4742d61a37091938507fcde7541daeb96b38e6eac5d0569047c22"
+    },
+    {
+      "path": "lab8/src/6-changed/src/kernel/syscall.cpp",
+      "bytes": 1187,
+      "sha256": "e8266a51d6a01b8924e5e9dbd2c9c693418f23a779f41f770008bb2c915ed990"
+    },
+    {
+      "path": "lab8/src/6-changed/src/utils/address_pool.cpp",
+      "bytes": 644,
+      "sha256": "7b2c3ac7b51899079f5c9c944676c5f37ed04c7fa36a2af6f0822792842cc53d"
+    },
+    {
+      "path": "lab8/src/6-changed/src/utils/asm_utils.asm",
+      "bytes": 5874,
+      "sha256": "5b414057fa61facc593f10fbed85b9e71c404af9c9273c0d7e752f39d27b41b4"
+    },
+    {
+      "path": "lab8/src/6-changed/src/utils/bitmap.cpp",
+      "bytes": 1847,
+      "sha256": "0ba747925bc162d60d0ee331d07eb666cfc6bbe3194c9115fcf55fdf3da5e3d9"
+    },
+    {
+      "path": "lab8/src/6-changed/src/utils/list.cpp",
+      "bytes": 3055,
+      "sha256": "4c58137f3957c986ec310d20539ed12144152758699f8940c381b390e6cbc8e1"
+    },
+    {
+      "path": "lab8/src/6-changed/src/utils/stdlib.cpp",
+      "bytes": 1332,
+      "sha256": "96358da9cf526058be13de2cf8922b5f97771e8921fe59cd274667fc71a7e348"
+    },
+    {
+      "path": "lab8/src/7/README.md",
+      "bytes": 185,
+      "sha256": "77e7a036fb1ade41c1ff1c8f7ce08df972ac4cdcc6f0a3b81430f2060c06e5d8"
+    },
+    {
+      "path": "lab8/src/7/build/makefile",
+      "bytes": 2289,
+      "sha256": "0032cc96df66425be0a7371b2162a437a9c309bb777e31a25c0807bd28ce6c57"
+    },
+    {
+      "path": "lab8/src/7/include/address_pool.h",
+      "bytes": 529,
+      "sha256": "450163217d3166ebcb3b9d603f031e44c9d808b3b08f685647a72187c90fc237"
+    },
+    {
+      "path": "lab8/src/7/include/asm_utils.h",
+      "bytes": 1026,
+      "sha256": "2728137e6f4eb8cd61c839d636305da2624a2deb4395a26659bbae351775964c"
+    },
+    {
+      "path": "lab8/src/7/include/bitmap.h",
+      "bytes": 1082,
+      "sha256": "7abdea536dcc60956b3cc7cf4d63531f3cc8562a6444a491668308d4cf42167e"
+    },
+    {
+      "path": "lab8/src/7/include/boot.inc",
+      "bytes": 771,
+      "sha256": "78b91bb29d2e4896db3d04c87fbccddf3781c72c5b6ab44acc99f62a34f7fa16"
+    },
+    {
+      "path": "lab8/src/7/include/interrupt.h",
+      "bytes": 1187,
+      "sha256": "dfe51f91145f90ec1fda9f87d8cd4685a4093894edb6c229bcfd23dc1c72e8c5"
+    },
+    {
+      "path": "lab8/src/7/include/list.h",
+      "bytes": 1172,
+      "sha256": "c4daee267b769777f1e4eefcf4032ca773a8ca1eef9fd41cdaf5698c494a89b6"
+    },
+    {
+      "path": "lab8/src/7/include/memory.h",
+      "bytes": 1763,
+      "sha256": "47c6492d5b806a7c3c2bcf808c3c5d92c4ff04a8392ce24ccc27e1dd10a7456c"
+    },
+    {
+      "path": "lab8/src/7/include/os_constant.h",
+      "bytes": 653,
+      "sha256": "860051947cfc2f9d3ce0cc4021f72f75a227d89b5f047066706bfaba8a572031"
+    },
+    {
+      "path": "lab8/src/7/include/os_modules.h",
+      "bytes": 360,
+      "sha256": "8df7b4a0e18017a8882fdac25dcfad01fa6238d62899de1a619ecccc6a0d84f8"
+    },
+    {
+      "path": "lab8/src/7/include/os_type.h",
+      "bytes": 263,
+      "sha256": "96d9ad7b22b5da800e60919440dedcf34c443f92f3e3cba0c406d644035f9e5a"
+    },
+    {
+      "path": "lab8/src/7/include/process.h",
+      "bytes": 304,
+      "sha256": "97a68b89bcd6d53112a4c4eb9c52855ecee19a6822cf0bbde3c90e095bae3b19"
+    },
+    {
+      "path": "lab8/src/7/include/program.h",
+      "bytes": 1884,
+      "sha256": "1477d8ca2787202b282a82a7ecd5c6c79a43a8d71c5262a6770bc4859d254501"
+    },
+    {
+      "path": "lab8/src/7/include/setup.h",
+      "bytes": 72,
+      "sha256": "bc1808fa2f303e5127bd02860749ee621a6ce9f909bc570bf2195808db97e7e7"
+    },
+    {
+      "path": "lab8/src/7/include/shell.h",
+      "bytes": 148,
+      "sha256": "d3f33044354392eded9bc451499406d3da8d9e9f001f3e077cbdc458c766d9d6"
+    },
+    {
+      "path": "lab8/src/7/include/stdarg.h",
+      "bytes": 318,
+      "sha256": "ffeeac3637d33c51160ae55ab2fd485fda881e7078ef353bbdff916cb9e0f6b6"
+    },
+    {
+      "path": "lab8/src/7/include/stdio.h",
+      "bytes": 793,
+      "sha256": "c0fe485a052dbfd76da7db688c4fc1c75171c7293c4869a598524ad8c67bd07b"
+    },
+    {
+      "path": "lab8/src/7/include/stdlib.h",
+      "bytes": 735,
+      "sha256": "6f09b88c596fd1205dcab000e538f4ea20d99a252ad8367ecbeecae2f31da506"
+    },
+    {
+      "path": "lab8/src/7/include/sync.h",
+      "bytes": 389,
+      "sha256": "534e81705dba02dbddd93778636e7a02d179b88e6de034e8d5bc26bd650087f8"
+    },
+    {
+      "path": "lab8/src/7/include/syscall.h",
+      "bytes": 825,
+      "sha256": "11664cdabf62f227277e3ce507dec211b9dfba874f665fa16d97fccc92a14772"
+    },
+    {
+      "path": "lab8/src/7/include/thread.h",
+      "bytes": 990,
+      "sha256": "950a1dcf084e3a03a8a37caebe6fb3fd06a8d8bbb2f414fe8fec0e4547df3d35"
+    },
+    {
+      "path": "lab8/src/7/include/tss.h",
+      "bytes": 419,
+      "sha256": "42c6ac93926fce2ed2403a2877daafbb72fa0b21aab76405b79420a91cb917fa"
+    },
+    {
+      "path": "lab8/src/7/run/gdbinit",
+      "bytes": 70,
+      "sha256": "7b7fafdd7ca09b3bb6f7182476f39114e8001cf1bd30b59864ec635b350bb0b0"
+    },
+    {
+      "path": "lab8/src/7/src/boot/bootloader.asm",
+      "bytes": 3680,
+      "sha256": "dfcfeb66988f4e17691ed0a726054319e7c78cc39cd5bfef64006b8a9c0cd4ac"
+    },
+    {
+      "path": "lab8/src/7/src/boot/entry.asm",
+      "bytes": 74,
+      "sha256": "e42fccf2ac155d3aae61d2de03a69fc80f92ae2bad1e30baaeec67e63ac5ca2a"
+    },
+    {
+      "path": "lab8/src/7/src/boot/mbr.asm",
+      "bytes": 1865,
+      "sha256": "009d75c2223e5ca807c1b4264a67002a31a8fddc17ec9c5f7f1bfec1510c7f45"
+    },
+    {
+      "path": "lab8/src/7/src/boot/page.cpp",
+      "bytes": 925,
+      "sha256": "b4f3fa61bfbd24f4d5172c1f2d85aa3012a4980e0189d750aacf41f86c0768cc"
+    },
+    {
+      "path": "lab8/src/7/src/kernel/interrupt.cpp",
+      "bytes": 2659,
+      "sha256": "4f5d3d23a157a7ccae1c75ef9a9ad320f0fd2e6cd7da5c5c764a7bb231e00b73"
+    },
+    {
+      "path": "lab8/src/7/src/kernel/memory.cpp",
+      "bytes": 7496,
+      "sha256": "6ceddb833a919d9b49e66013d1f9b9078ef4fc93499eda09b6da4bbc9b2571b0"
+    },
+    {
+      "path": "lab8/src/7/src/kernel/program.cpp",
+      "bytes": 17185,
+      "sha256": "6780a7c152440d512ddb1b54f690c3490f989030eb770158d540df1ed06c150c"
+    },
+    {
+      "path": "lab8/src/7/src/kernel/setup.cpp",
+      "bytes": 2678,
+      "sha256": "21c990e3349886f470ef5b0714753fa5b04eb981acde01e53eb78aecb68cdf03"
+    },
+    {
+      "path": "lab8/src/7/src/kernel/shell.cpp",
+      "bytes": 1419,
+      "sha256": "4fce6f1ce2a763e39b1647622c281edf926bbf0a5b7f96370d1b02f5c5d47008"
+    },
+    {
+      "path": "lab8/src/7/src/kernel/stdio.cpp",
+      "bytes": 4328,
+      "sha256": "003b966cdccf76288af291facaee819886df7d08d980ef11fc63dd5cba69fb92"
+    },
+    {
+      "path": "lab8/src/7/src/kernel/sync.cpp",
+      "bytes": 1332,
+      "sha256": "9742b800dcb4742d61a37091938507fcde7541daeb96b38e6eac5d0569047c22"
+    },
+    {
+      "path": "lab8/src/7/src/kernel/syscall.cpp",
+      "bytes": 1324,
+      "sha256": "36862844317ca0f9148a3613ec36d16d5f2bd9050c36d44974ed419c4dd1b347"
+    },
+    {
+      "path": "lab8/src/7/src/utils/address_pool.cpp",
+      "bytes": 644,
+      "sha256": "7b2c3ac7b51899079f5c9c944676c5f37ed04c7fa36a2af6f0822792842cc53d"
+    },
+    {
+      "path": "lab8/src/7/src/utils/asm_utils.asm",
+      "bytes": 5874,
+      "sha256": "5b414057fa61facc593f10fbed85b9e71c404af9c9273c0d7e752f39d27b41b4"
+    },
+    {
+      "path": "lab8/src/7/src/utils/bitmap.cpp",
+      "bytes": 1847,
+      "sha256": "0ba747925bc162d60d0ee331d07eb666cfc6bbe3194c9115fcf55fdf3da5e3d9"
+    },
+    {
+      "path": "lab8/src/7/src/utils/list.cpp",
+      "bytes": 3055,
+      "sha256": "4c58137f3957c986ec310d20539ed12144152758699f8940c381b390e6cbc8e1"
+    },
+    {
+      "path": "lab8/src/7/src/utils/stdlib.cpp",
+      "bytes": 1332,
+      "sha256": "96358da9cf526058be13de2cf8922b5f97771e8921fe59cd274667fc71a7e348"
+    }
+  ],
+  "publicationFixes": [
+    "lab6/spinlock-v2/include/asm_utils.h",
+    "lab8/src/3-changed/src/kernel/program.cpp"
+  ]
+}
